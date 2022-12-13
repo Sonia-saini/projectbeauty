@@ -1832,7 +1832,7 @@
                 "comp":"Samsung 80 cm (32 inch)",
                 "desc":"HD Ready LED TV, UA32T4010ARXXL (Black)",
                 "price": 12990,
-                "rating":"",
+                "rating":4,
                 "cart":false
               },
               {
@@ -1841,7 +1841,7 @@
                 "comp":"Samsung 108 cm (43 inch)",
                 "desc":"Wondertainment Series Full HD LED Smart TV, UA43TE50AAKXXL (Titan Gray)",
                 "price": 32799,
-                "rating":"",
+                "rating":5,
                 "cart":false
               },
               {
@@ -1850,7 +1850,7 @@
                 "comp":"Samsung Wondertainment 80 cm (32 Inch)",
                 "desc":"Smart HD Ready TV, UA32T4340BKXXL",
                 "price": 13099,
-                "rating":"",
+                "rating":4,
                 "cart":false
               },
               {
@@ -1859,7 +1859,7 @@
                 "comp":"SAMSUNG Crystal 4K Pro 138 cm (55 inch)",
                 "desc":"Ultra HD (4K) LED Smart TV with Voice Search (UA55AUE70AKLXL)",
                 "price": 52990,
-                "rating":"",
+                "rating":4,
                 "cart":false
               },
               {
@@ -1868,7 +1868,7 @@
                 "comp":"ONEPLUS 81.28 cm (32 inch)",
                 "desc":"HD Smart LED TV, 32Y1",
                 "price": 12599,
-                "rating":"",
+                "rating":3,
                 "cart":false
               },
               {
@@ -1877,7 +1877,7 @@
                 "comp":"OnePlus 100 cm (40 inch)",
                 "desc":"Full HD LED Smart TV, Y Series 40Y1",
                 "price": 19999 ,
-                "rating":"",
+                "rating":3.5,
                 "cart":true
               },
               {
@@ -1886,7 +1886,7 @@
                   "comp":"OnePlus 138.7 cm (55 inch)",
                   "desc":"Ultra HD (4K) LED Smart TV, U Series 55U1S",
                   "price": 42999,
-                  "rating":"",
+                  "rating":4,
                 "cart":true
                 },
                 {
@@ -1895,7 +1895,7 @@
                   "comp":"Realme 80 cm (32 inch)",
                   "desc":"HD Ready LED Smart TV",
                   "price": 12999,
-                  "rating":"",
+                  "rating":4.5,
                 "cart":true
                 },
                 {
@@ -1904,7 +1904,7 @@
                   "comp":"Realme 139 cm (55 inch)",
                   "desc":"Ultra HD (4K) LED Smart TV",
                   "price": 38999,
-                  "rating":"",
+                  "rating":4,
                 "cart":false
                 },
                 {
@@ -1913,7 +1913,7 @@
                   "comp":"realme 108 cm (43 inch)",
                   "desc":"Ultra HD (4K) LED Smart TV, RMV2004",
                   "price": 27599,
-                  "rating":"",
+                  "rating":5,
                 "cart":false
                 },
                 {
@@ -1922,7 +1922,7 @@
                   "comp":"MI 32",
                   "desc":"HD Ready Smart LED TV, 4A Horizon, ELA4546IN",
                   "price": 16799,
-                  "rating":"",
+                  "rating":3,
                   "cart":false
                 },
                 {
@@ -1931,7 +1931,7 @@
                   "comp":"Mi 101.6 cm (40 inch)",
                   "desc":"Full HD Smart LED TV, 4A Horizon, ELA4642IN",
                   "price": 21799,
-                  "rating":"",
+                  "rating":4,
                   "cart":false
                 },
                 {
@@ -1940,7 +1940,7 @@
                     "comp":"Samsung 80 cm (32 inch)",
                     "desc":"HD Ready LED TV, UA32T4010ARXXL (Black)",
                     "price": 12990,
-                    "rating":"",
+                    "rating":3.5,
                     "cart":false
                   },
                   {
@@ -1949,7 +1949,7 @@
                     "comp":"Samsung 108 cm (43 inch)",
                     "desc":"Wondertainment Series Full HD LED Smart TV, UA43TE50AAKXXL (Titan Gray)",
                     "price": 32799,
-                    "rating":"",
+                    "rating":5,
                     "cart":false
                   },
                   {
@@ -1958,7 +1958,7 @@
                     "comp":"Samsung Wondertainment 80 cm (32 Inch)",
                     "desc":"Smart HD Ready TV, UA32T4340BKXXL",
                     "price": 13099,
-                    "rating":"",
+                    "rating":3.5,
                     "cart":false
                   }
         ],
@@ -1970,7 +1970,7 @@
               "comp":"boat-rockerz-400-rtl-bluetooth-headphone",
               "desc":"Powerful Bass and Vocal Clarity, Black",
               "price": 999 ,
-              "rating":"",
+              "rating":4,
               "cart":true
             },
             {
@@ -1979,7 +1979,7 @@
                 "comp":"boAt Rockerz 400 RTL Bluetooth Headphone",
                 "desc":"Powerful Bass and Vocal Clarity, Grey/Green",
                 "price": 999,
-                "rating":"",
+                "rating":3,
               "cart":true
               },
               {
@@ -1988,7 +1988,7 @@
                 "comp":"boAt Rockerz 400 RTL On-Ear Bluetooth Headphones",
                 "desc":"Voice Assistant with one-click, Blue",
                 "price": 999,
-                "rating":"",
+                "rating":4,
               "cart":true
               },
               {
@@ -1997,7 +1997,7 @@
                 "comp":"Reconnect Marvel Avengers",
                 "desc":"Active Noise Cancelation Over Ear Foldable Wireless Headphone, Built in mic, 14hrs playtime, Bluetooth, Multipairing tech, Super hero design",
                 "price": 799,
-                "rating":"",
+                "rating":4,
               "cart":false
               },
               {
@@ -2006,7 +2006,7 @@
                 "comp":"Reconnect Marvel Avengers",
                 "desc":"On ear foldable Wireless Headphone with built in mic & Siri/Alexa/GoogleOk compatible, 10hrs playtime, Super hero Design",
                 "price": 599,
-                "rating":"",
+                "rating":3,
               "cart":false
               },
               {
@@ -2015,7 +2015,7 @@
                 "comp":"Reconnect Marvel Dead pool",
                 "desc":"Over the ear Wireless Headphone, built in mic with noise cancellation, Sweat resistant, 14hrs playtime, Multipairing tech, Super hero design",
                 "price": 799,
-                "rating":"",
+                "rating":2.5,
                 "cart":false
               },
               {
@@ -2024,7 +2024,7 @@
                 "comp":"Reconnect Marvel Black Panther",
                 "desc":"Active Noise Cancelation Over Ear Foldable Wireless Headphone, Built in mic, 14hrs playtime, Bluetooth, Multipairing tech, Super hero design",
                 "price": 799,
-                "rating":"",
+                "rating":3.5,
                 "cart":false
               },
               {
@@ -2033,7 +2033,7 @@
                 "comp":"JBL T300A",
                 "desc":"On-Ear Wired Headphone, Blue/White",
                 "price": 1099,
-                "rating":"",
+                "rating":4,
                 "cart":false
               },
               {
@@ -2042,7 +2042,7 @@
                 "comp":"JBL E65BTNC",
                 "desc":"Wireless Headphone, Blue",
                 "price": 8250,
-                "rating":"",
+                "rating":4,
                 "cart":false
               },
               {
@@ -2051,7 +2051,7 @@
                 "comp":"JBL T450",
                 "desc":"Wired Headphone with Mic, Pure Bass sound (White)",
                 "price": 1599,
-                "rating":"",
+                "rating":3,
                 "cart":false
               },
               {
@@ -2060,7 +2060,7 @@
                 "comp":"Philips SHB7250",
                 "desc":"Wireless Headphone with Digital Echo & Noise Reduction, Auto Power off (Black)",
                 "price": 2545,
-                "rating":"",
+                "rating":4,
                 "cart":false
               },
               {
@@ -2069,7 +2069,7 @@
                 "comp":"JBL Live 660NC",
                 "desc":"Wireless Headphone with Noise Cancellation, Black",
                 "price": 9998,
-                "rating":"",
+                "rating":5,
                 "cart":false
               },
               {
@@ -2078,7 +2078,7 @@
                 "comp":"Fire-Boltt-Blast 1300",
                 "desc":"Bluetooth Stereo Headphone with Passive Noise Cancellation",
                 "price": 1199,
-                "rating":"",
+                "rating":4,
                 "cart":false
               },
               {
@@ -2087,7 +2087,7 @@
                 "comp":"Zebronics Zeb-Duke",
                 "desc":"Wireless Bluetooth Headphone with RGB Lights, 30 hours Playback, Voice Assistant, Blue",
                 "price": 1599,
-                "rating":"",
+                "rating":3,
                 "cart":false
               },
               {
@@ -2096,7 +2096,7 @@
                 "comp":"Zebronics Zeb-Duke",
                 "desc":"Wireless Bluetooth Headphone with RGB Lights, 30 hours Playback, Voice Assistant, Green",
                 "price": 1599,
-                "rating":"",
+                "rating":3,
                 "cart":false
               }
         ]
