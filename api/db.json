@@ -807,5 +807,294 @@
               "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/ellisbrooklyn.gif","quantity":1
           }
   
-      ]}
+      ]
+      ,"mobiles":[
+        {"id":91,
+        "url":"https://www.reliancedigital.in/medias/Apple-iPhone-14-Plus-Mobile-Phone-493177770-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2NzA3M3xpbWFnZS9qcGVnfGltYWdlcy9oNGEvaDQ1Lzk4OTA1NDQ3MTM3NTguanBnfGEzYzVkZjMzYjY4NjE0MDE2YTEzY2M1MWRiZDUyZjJjNGM2MWVkYzJlNzU4Zjk0NGY0Y2Y3NjE5Y2RiMWQzMjg",
+        "category":"Apple",
+        "price":99900,
+        "rating":4,
+        "name":"Apple iPhone 14 Plus 256 GB, Starlight",
+        "description":"16.95 cm (6.7 Inch) Super Retina XDR OLED display 12 MP Main + 12 MP Ultra Wide Lens Rear Camera 12 MP Selfie Camera, Fingerprint-resistant oleophobic coating  Rated IP68 Splash, Water and Dust Resistant",
+        "cart":false
+        },
+        {"id":105,
+        "url":"https://www.reliancedigital.in/medias/One-Plus-10T-Mobile-Phone-493177296-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMjc4NDd8aW1hZ2UvanBlZ3xpbWFnZXMvaDE5L2g3My85ODY5OTQxOTMyMDYyLmpwZ3xjYzAwMWQ5MDBlZmJkMjZjY2M0Y2QyYjFjNzkxZDQ2MmE5ZjJiNjIyYTI3NzFiZGQ4NTdjZmZiMGQ2YmU3M2Fl",
+        "category":"One-Plus",
+        "price":54999,
+        "rating":4,
+        "name":"OnePlus 10T 5G 256 GB, 12 GB RAM, Moonstone Black, Mobile Phone",
+        "description":"17.01 cm (6.7 Inch) Display 50 MP + 8 MP Back Camera 16 MP Front Camera 4800 mAh Battery",
+        "cart":false
+        },
+        {"id":92,
+        "url":"https://www.reliancedigital.in/medias/Realme-C33-Mobile-Phone-493177736-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w5NTkwNHxpbWFnZS9qcGVnfGltYWdlcy9oMTYvaDUyLzk5MDM3MDIwMTYwMzAuanBnfDI3NTkzZmQ5MTUzM2ExZGZjOTkyMDc4YjYwYTc3MmY5ZTRkNmM2MDljZGJiYTliNGZiZWNmNzI3MDExNDM2ZDA",
+        "category":"Realme",
+        "price":8999,
+       " rating":4.5,
+        "name":"Realme C33 32 GB, 3 GB RAM, Sandy Gold, Mobile Phone",
+        "description":"16.5 cm (6.5 inch) Fullscreen Display 50 MP AI Camera, 5000 mAh battery 5 MP Selfie Camera, 10W Fast Charge  8.3 mm Ultra Slim Boundless sea design"
+        ,
+        "cart":false
+        }
+        ,
+        {"id":93,
+        "url":"https://www.reliancedigital.in/medias/Vivo-V16-Smart-Phone-493178408-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMjA2MTR8aW1hZ2UvanBlZ3xpbWFnZXMvaDgzL2hjYy85OTE5MjYyMTMwMjA2LmpwZ3w1OGQyOTFiZDMyMDhjY2VmNjVmZDg0YjEzMTg5NTFkYmVjNTZmYTlmOTQ4MGRiZTI2MTgzYjVjZDk2YWY2OGZj",
+        "category":"Vivo",
+        "price":12499,
+        "rating":5,
+        "name":"Vivo Y16 64 GB, 4 GB RAM, Drizzling Gold, Mobile Phone (Jio Exclusive)",
+        "description":"Display: 16.5 cm (6.51 Inch) HD+ LCD IPS Back Camera: 13 MP + 2 MP AI Front Camera: 5 MP Battery: 5000 mAh"
+       ,
+        "cart":false
+        },
+        {"id":94,
+        "url":"https://www.reliancedigital.in/medias/Samsung-M13-Mobile-Phone-493178368-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w5NzYxNHxpbWFnZS9qcGVnfGltYWdlcy9oMjIvaDM3Lzk4OTk2MTU0NTMyMTQuanBnfDEyMTQ3NWQ3YTJkNjlmM2RiMzcxYzA5ODhmNGE5ZGQ5YzE1ZGU1ZmExMzk2YzUzMDYxMWViM2E0MjQxODk4MGQ",
+        "category":"Samsung",
+       "price":13999,
+        "rating":3.5,
+        "name":"Samsung M13 5G 128 GB, 6 GB RAM, Midnight Blue, Mobile Phone",
+        "description":"16.55 cm (6.5 inch) HD+ LCD 1600 x 700 Display 50 MP Main + 2 MP Primary Camera 5 MP Selfie Camera, 5000 mAh Battery Powerful MTK D700 Octa Core Processor",
+        "cart":false
+        },{"id":95,
+        "url":"https://www.reliancedigital.in/medias/Xiaomi-Note-11-SE-Smart-Phone-493178812-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w5MjY5MnxpbWFnZS9qcGVnfGltYWdlcy9oYTcvaGYzLzk5MTE0NjAzNjQzMTguanBnfDhjNjAxZmZhN2ViNmUxOTNjMmJhNWU3MjVmNmQwYTRkZmMzNDg1MDIwMDU4YTdhNjdjYTA3M2Y1YmM0YzA3NzI",
+        "category":"Xiaomi",
+        "price":11999,
+        "rating":4,
+        "name":"Redmi Note 11 SE 64 GB, 6 GB RAM, Cosmic White Mobile Phone",
+        "description":"16.33 cm (6.43 inch) AMOLED Display 6 GB Memory, 64 GB Storage 64 MP + 8 MP +2 MP +2 MP Primary Camera 13 MP Front Camera"
+        ,"cart":false
+        },{"id":96,
+        "url":"https://www.reliancedigital.in/medias/Oppo-K10-Smartphone-492849761-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0Mzg1MzJ8aW1hZ2UvanBlZ3xpbWFnZXMvaGNjL2gxYS85ODcwMzI4MTM1NzEwLmpwZ3w5NGViYzVhODFlMDBkOWU0ZTVmMTcyNDgzYjg0ZGQwY2FhNTIzMWI0YzZjMjlhMGU3NTA3Zjk1ZmEzYzc1MjMz",
+        "category":"Oppo",
+        "price":16990,
+        "rating":4.5,
+        "name":"Oppo K10 128 GB, 8 GB RAM, Black Carbon, Mobile Phone",
+        "description":"6.73cm (6.59 inch) Screen Size Screen Resolution : 2412 x 1080 FHD+  RAM: 8 GB Internal Storage: 128GB",
+        "cart":false
+        },
+        {"id":97,
+        "url":"https://www.reliancedigital.in/medias/Motorola-G42-Mobile-Phone-492850894-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1ODY2MnxpbWFnZS9qcGVnfGltYWdlcy9oMTIvaGI5Lzk4NTk0ODQ1MTYzODIuanBnfDQxYmM3YTlmM2IwODBjYTNkMGUzMmVlYjAwNGM3YzFlNjEyMThmOWRkNzQ4NmU4NjJlMTdjYTk2ZWExMmU0MjM",
+        "category":"Motorola Moto",
+        "price":10999,
+        "rating":4,
+        "name":"Motorola Moto G42 64GB, 4GB RAM, Atlantic Green, Mobile Phone",
+        "description":"16.25 cm (6.4 Inch) FHD+ ultra-wide OLED Display 50MP + 8MP + 2MP Back Camera 16MP Front Camera, 5000 mAh Battery Dual stereo Dolby Atmos Audio",
+        "cart":false
+        },
+        {"id":98,
+        "url":"https://www.reliancedigital.in/medias/Lenovo-ZA5G0172IN-M8-Tablet-491997423-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTYxMjJ8aW1hZ2UvanBlZ3xpbWFnZXMvaDQ2L2g2OS85NjE1Mzc0NDgzNDg2LmpwZ3w2ZTBkZTA0ODNjNzViOWMxOWQ4ZmYxZDQ0ZmQ2MTZlNzI1YmMwYmM0YzNiNDAxMzMzZmUwNmEwMzA2OGIzOGYx",
+        "category":"Lenovo",
+        "price":100499,
+        "rating":4,
+        "name":"Lenovo Tab M8 8505F 20.32 cm (8 inch) Tablet 2 GB RAM, 32 GB, Iron Grey, ZA5G0172IN with Wi-Fi Only",
+        "description":"Operating System Type: Android Size: 20.32 cm (8 inch) RAM: 2 GB  Internal Storage: 32 GB",
+        "cart":false
+        },
+        {"id":99,
+        "url":"https://www.reliancedigital.in/medias/Samsung-Tab-S7-FE-Tablets-491996967-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w5NDgyMHxpbWFnZS9qcGVnfGltYWdlcy9oY2IvaDUzLzk1ODExNzI5NDkwMjIuanBnfDg0MDE1ZTMyMTI0ODM0M2M3ZGM5YzNhZTg2NTU2OGEyZjM1NWZlZGY4MzFlNzgzMTkzNTRhMzk3M2FmNWE1NjA",
+        "category":"Samsung Galaxy",
+        "price":50999,
+        "rating":4,
+        "name":"Samsung Galaxy Tab S7 FE 31.50 cm (12.4 inch) Tablet 6 GB, 128 GB, Mystic Silver SM-T735NZSEINU",
+        "description":"Operating System Type: Android Size: 31.49 cm (12.4 inch)  RAM: 6 GB Internal Storage: 128 GB"
+       , "cart":false
+        },
+        {"id":100,
+        "url":"https://www.reliancedigital.in/medias/iBall-IT-KSA0003-Tablets-491894192-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0NzA0NzJ8aW1hZ2UvanBlZ3xpbWFnZXMvaGI3L2hmOS85MzM5OTI4MzQ2NjU0LmpwZ3xjYTAwZjUxMjM1NmI5NTdjMTExMGYwYzQ5ZjMzYzkzMDFlMmUwN2E4NmVlNzRiNTMyOThlNDU2ZmM2OGQ0YTFk",
+        "category":"iBall",
+        "price":12999,
+        "rating":1,
+        "name":"iBall MovieZ 25.65 cm (10.1 inch) Tablet 2 GB, 32 GB, Coal Black iT-KSA0003",
+        "description":"Operating System Type: Android Size: 25.65 cm (10.1 inch) RAM: 2 GB  Internal Storage: 32 GB",
+        "cart":false
+        },
+        {"id":101,
+        "url":"https://www.reliancedigital.in/medias/Apple-MUU32HN-A-Tablets-491551026-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDMwNDR8aW1hZ2UvanBlZ3xpbWFnZXMvaDQ3L2gwOS85MTM2MzM3MTI1NDA2LmpwZ3xlOWMwMzNjMjRmZjIwMmEzZThiODRiYjcwNjM0OTcyYzJmMGEyYWM5YzBlZmQ0NzljYjIzNzQ4ODA3NjIzMGY3",
+        "category":"Apple",
+        "price":41429,
+        "rating":3,
+        "name":"Apple iPad mini 2019 20.06 cm (7.9 inch) Wi-Fi Tablet, 256 GB, Space Grey MUU32HN/A",
+        "description":"Operating System Type: iOS Size: 20.06 cm (7.9 inch) Internal Storage: 256 GB Wifi: Yes"
+        ,"cart":false
+        },
+        {"id":102,
+        "url":"https://www.reliancedigital.in/medias/Lenovo-8506X-Regular-Tablets-492849048-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyODk3Mzh8aW1hZ2UvanBlZ3xpbWFnZXMvaGM0L2hiMi85NzgyNjUxNDIwNzAyLmpwZ3w3OGE5OWFmN2UxYTllNDRkNWYyYTA4M2RkMTM2Yjg1MTZiOWQxMTJkNzk2NDU1ZWFkOTExNTdjNjk5ODdjZmE5",
+        "category":"Lenovo",
+        "price":12999,
+        "rating":4,
+        "name":"Lenovo Tab M8 3rd Gen 20.32 cm (8 inch) LTE Tablet 4 GB RAM, 64 GB, Iron Grey, ZA8G0000IN",
+        "description":"20.32 cm (8 inch) HD 1280 x 800 IPS 350nits, Touch Display MediaTek Helio P22T processor Integrated IMG PowerVR GE8320 GPU graphics 8 MP primary camera and 2 MP selfie camera"
+      ,  "cart":false
+        },
+        {"id":103,
+        "url":"https://www.reliancedigital.in/medias/Samsung-Tab-A7-Tablets-491996857-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMzc5MDR8aW1hZ2UvanBlZ3xpbWFnZXMvaDQ2L2hkYi85NTg3MTU0NjQ5MTE4LmpwZ3xmMGU5OWUwMGUwNTI2YTJjYjI4YTBmNmE1MjgyMjVmYjBiN2RjYzcwZmNkYTk4OWU0NGI5MDdjNWIxN2NhZTNm",
+        "category":"Samsung Galaxy",
+        "price":16999,
+        "rating":5,
+        "name":"Samsung Galaxy Tab A7 26.31 cm (10.4 inch) Tablet 3 GB RAM, 64 GB, Gold T500N",
+        "description":"Operating System Type: Android  Size: 26.41 cm (10.4 inch)  RAM: 3 GB  Internal Storage: 64 GB"
+       , "cart":false
+        },
+        {"id":104,
+        "url":"https://www.reliancedigital.in/medias/iBall-IT-KSA0066-Tablets-491894190-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNjM5MTZ8aW1hZ2UvanBlZ3xpbWFnZXMvaGQxL2g4Mi85MzIwMDUyNzUyNDE0LmpwZ3wwMzk3MWUxZDY3OWRiZGZlNjk4Y2I2M2NmNGNhMDUyOGQ5NjhhMTYzODRmZGUxZDk0ZTczZWYxYjJiODAyYzU1",
+        "category":"iBall",
+        "price":10499,
+        "rating":4,
+        "name":"iBall Bizniz Mini 20.32 cm (8.0 inch) Tablet 2 GB, 32 GB, Coal Black iT-KSA0066",
+        "description":"Operating System Type: Android Size: 20.32 cm (8 inch) RAM: 2 GB Internal Storage: 32 GB"
+        ,"cart":false
+        }
+        ],
+        "home appliances":[
+        {"id":136,
+        "url":"https://www.reliancedigital.in/medias/LLOYD-LS12I3FWGBP-Air-Conditioner-581026729-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w5NzYxOHxpbWFnZS9qcGVnfGltYWdlcy9oMWYvaGFmLzk3NDY0MjkyMTQ3NTAuanBnfGJhZDBiODAwZDQxYjVhM2YzMjY1MDdmZDIzOTc5ZjIxODQwMDM1Zjc3NWIwNTc2NWQ4MzNhYjUzZTJhN2RjMWY",
+        "category":"LLOYD",
+        "price":29990,
+        "rating":4,
+        "name":"LLOYD 1 Ton 3 Star Inverter Split AC, GLS12I3FWGBP (Copper Condenser ,PM 2.5 Filter,4 Way Swing, Golden Fin coil & condenser, Duo compressor)",
+        "description":"1 Year PCB Warranty  10 Years Compressor Warranty  PM 2.5 Air Filter  Anti Viral Dust Filter"
+       , "cart":false
+        },{
+        "id":137,
+        "url":"https://www.reliancedigital.in/medias/Samsung-AR18BYLZAUR-Split-Air-Conditioner-581026992-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMDY3MHxpbWFnZS9qcGVnfGltYWdlcy9oYzgvaDM3Lzk4MTMxMzI3NzEzNTguanBnfDhhNDc0MWYzNjM2OTJjZTM0MzMxYWZlMjhmN2ZmNDlkZjVjNmIxNWNmOGI4YmMwNDBmOWE3MDE3OThiNDEyMDk",
+        "category":"Samsung",
+        "price":31990,
+        "rating":5,
+        "name":"Samsung 1.5 Ton 3 Star 5 in 1 Convertible Inverter Split AC, AR18BYLZAUR (100 percent Copper, Anti-Bacteria Filter, Auto Clean Function, Filter clean indicator, 2022 Launch)",
+        "description":"1 Year PCB Warranty  Convertible 5-in-1 Cooling Mode  Anti-Bacteria Filter  Copper Condenser Coil",
+        "cart":false
+        },
+        {
+        "id":138,
+        "url":"https://www.reliancedigital.in/medias/HISENSE-AS-18TC4RAM0-Air-Conditioners-581026857-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDMzMTB8aW1hZ2UvanBlZ3xpbWFnZXMvaGE5L2g1ZC85ODEwMDY1MjYwNTc0LmpwZ3wyN2NiZjMwZmZlMTdhMmU3MTM0ZjU0YTY5MmZjZDRhMDUxMDE0ZjRiMWFlZDQ3NTcxMWI2OGRhNzBjMDY5OTY1",
+        "category":"Hisense",
+        "price":29990,
+        "rating":4.5,
+        "name":"Hisense 1.5 Ton 4 Star, 4 in 1 Convertible Intelligent Inverter Split AC, AS-18TC4RAM0  (100 Percent Copper, PM 2.5 Filter + 3 in 1 Vitacarb Filter, Eco Friendly R-32 gas)",
+        "description":"5 Years PCB Warranty 10 Years Compressor Warranty Intelligent Inverter 4-in-1 Convertible",
+        "cart":false
+        },
+        {
+        "id":139,
+        "url":"https://www.reliancedigital.in/medias/Daikin-FTKM50U-Air-Conditioners-581026892-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMDMwNjR8aW1hZ2UvanBlZ3xpbWFnZXMvaDI2L2hiNC85ODA0MDU1NzQwNDQ2LmpwZ3xlYTZmZDJiMTllODM0NzQwODU0YmFlNGRhMTEyM2VhMmYwYTg0YWVlZGQ2YzY2ZDgwODI5YjBjYmJiMzVhMjA1",
+        "category":"Daikin",
+        "price":46990,
+        "rating":5,
+        "name":"Daikin 1.5 Ton 5 Star Inverter Split AC, FTKM50U (100 Percent Copper, PM 2.5 Air Purification Filer, High ISEER Rating, 3D Airflow, Dew Clean technology, 2022 Launch)",
+        "description":"5 Years PCB Warrant Dew Clean Technology PM 2.5 Filter, 3D Airflow Triple Display features shows 3 key optimum running feature",
+        "cart":false
+        },
+        {
+        "id":140,
+        "url":"https://www.reliancedigital.in/medias/IFB-IACI18BD5G3C-Split-AC-581110191-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMTA4NDN8aW1hZ2UvcG5nfGltYWdlcy9oNTMvaGVmLzk4NDQyMjA2NTc2OTQucG5nfGEyYWE0NTU2ZTA3N2I5MTVjMTVkMTYzNWJkM2IzYmFmOWE1OThjNzA4MzYyZDA5YzQ2NTE5NDk5OTYwZTU0YjQ",
+        "category":"IFB",
+        "price":34990,
+        "rating":5,
+        "name":"IFB 1.5 Ton 3 Star Inverter Split AC, IACI18BD3G3C (Copper Condenser ,7 Stage Air treatment ,Gold Fin Anti Corrosion coating)",
+        "description":"5 Years ODU PCB Warranty  10 Years Compressor Warranty  Superior Cooling Power with Inverter Hi Speed HD Compressor which Work at 58 Degree C  Automotive Grade Weather Proof Coating For ODU and Dual Gold Fin Heat Exchangers",
+        "cart":false
+        },
+        {
+        "id":141,
+        "url":"https://www.reliancedigital.in/medias/Onida-Grande-Air-Conditioners-581026787-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4NDE1MnxpbWFnZS9qcGVnfGltYWdlcy9oOGEvaDQwLzk3NzM0NjU4NjIxNzQuanBnfDlkYzk2NTE1YmE1OTQwZmZmNWI4NTJjZmI1ZmVkMWNkMDI4ODMzOTExODYxYTk4MzAyN2IyNWRmOTcxODc1NTY",
+        "category":"Onida",
+        "price":24990,
+        "rating":4,
+        "name":"Onida 1.0 Ton 3 Star Grande IR123GRD Inverter Split AC with Copper condenser, Anti Fungus Operation, Eco-Friendly R32 Gas",
+        "description":"1 Year PCB Warranty 5 Years Compressor Warranty Stabilzer Free Operation Super Energy Saving",
+        "cart":false
+        },
+        {
+        "id":142,
+        "url":"https://www.reliancedigital.in/medias/LG-PS-Q18MNXE1-AMLG-SPLITAIRCONS-581026784-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oN2QvaDMyLzk3NjM1NzkzNjMzNTguanBnfDA0ODE1YTNkOTU1ZDlhMjE2ZTI4YzA2ZjEzNmY4OGVhMTk5YzEwNjUyNGRkMDM0ZGE0M2ExY2Y1OWFiY2M0MTY",
+        "category":"LG",
+        "price":36990,
+        "rating":4.5,
+        "name":"LG 1.5 Ton 3 Star 5 in 1 Super Convertible Inverter Split AC, 18MNXE1 (Copper Condenser, Anti-Virus Protection, Ocean Black Fins,R32 Refrigerant, 2022 Launch)",
+        "description":"5 Years PCB Warranty 10 Years Compressor Warranty Dual Inverter Super Convertible 5-in-1 Cooling",
+        "cart":false
+        },
+        {
+        "id":143,
+        "url":"https://www.reliancedigital.in/medias/Kelvinator-KAS-X18320P-SPLIT-AIRCONS-581026690-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0NjI1MXxpbWFnZS9qcGVnfGltYWdlcy9oNzEvaDRkLzk4MDg4MjgyNjg1NzQuanBnfGU3OTMwMDdkYjIxZjA1NTE2YTMyMjhiMGRlNWIzNjhjN2IwNjhkMTRkOTI1ZjhmZWNhNDk4ZDE0YThjNWQ0MTk",
+        "category":"Kelvinator",
+        "price":31990,
+        "rating":5,
+        "name":"Kelvinator 1.5 Ton 3 Star K600+ Series KAS-X18320P Inverter Split AC with Single Rotary Compressor",
+        "description":"5 Year PCB Warrant  Blue Fin Coating  SwitchTon  Single Rotary Compressor",
+        "cart":false
+        },
+        {
+        "id":144,
+        "url":"https://www.reliancedigital.in/medias/Haier-HSU10Q-TCW3B-Air-Conditioners-581026821-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3MzQzNnxpbWFnZS9qcGVnfGltYWdlcy9oNmIvaDYwLzk3NzM0NzU2OTI1NzQuanBnfDFlNWUxYTNlYWI1ZDRkYTI3OTY1ZGM0MDI3ZjhlZDQ5ZmFhZWU5NTE5ZDlmM2FlYWFkNGE5ODA4OTlhZjg0ZDA",
+        "category":"Haier",
+        "price":28990,
+        "rating":3,
+        "name":"Haier 0.9 Ton 3 Star QuriCool HSU10Q-TCW3B Triple Inverter Split AC with Copper Condenser, 50 Feet Airflow, Cools even at 60C, Hyper PCB, Self Clean Technology",
+        "description":"5 Years PCB Warranty 12 Years Compressor Warrant Self Clean Technology  Triple Inverter+",
+        "cart":false
+        },
+        {
+        "id":145,
+        "url":"https://www.reliancedigital.in/medias/Samsung-AR18BYLZAUR-Split-Air-Conditioner-581026959-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTY3MHxpbWFnZS9qcGVnfGltYWdlcy9oNTMvaDEyLzk4MTMxMjgxODM4MzguanBnfGFkZTY2Nzc5YTA3NmFlMzYwNzFhYjNmNjY5ODhmODEyOTM3N2RiMjY5NTdmNTRjNDYyMmQ1NjU3M2JkMjVhZTI",
+        "category":"Samsung",
+        "price":36990,
+        "rating":5,
+        "name":"Samsung 1.5 Ton 5 Star 5 in 1 Convertible Inverter Split AC, AR18BYNZAUR (100 percent Copper, Anti-Bacteria Filter, Auto Clean Function, Filter clean indicator, 2022 Launch)",
+        "description":"1 Year PCB Warranty Convertible 5-in-1 Cooling Mode Anti Bacteria Filter 100% Copper Condenser Coil",
+        "cart":false
+        },
+        {
+        "id":146,
+        "url":"https://www.reliancedigital.in/medias/Samsung-AR18BYLZAUR-Split-Air-Conditioner-581026959-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTY3MHxpbWFnZS9qcGVnfGltYWdlcy9oNTMvaDEyLzk4MTMxMjgxODM4MzguanBnfGFkZTY2Nzc5YTA3NmFlMzYwNzFhYjNmNjY5ODhmODEyOTM3N2RiMjY5NTdmNTRjNDYyMmQ1NjU3M2JkMjVhZTI",
+        "category":"Samsung",
+        "price":36990,
+        "rating":5,
+        "name":"Samsung 1.5 Ton 5 Star 5 in 1 Convertible Inverter Split AC, AR18BYNZAUR (100 percent Copper, Anti-Bacteria Filter, Auto Clean Function, Filter clean indicator, 2022 Launch)",
+        "description":"1 Year PCB Warranty Convertible 5-in-1 Cooling Mode Anti Bacteria Filter 100% Copper Condenser Coil",
+        "cart":false
+        },
+        {
+        "id":147,
+        "url":"https://www.reliancedigital.in/medias/Sansui-JSP65FTL-2024B-Washing-Machine-492911083-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyODk1MDR8aW1hZ2UvanBlZ3xpbWFnZXMvaDQ0L2gyMy85ODk0NjY5NzEzNDM4LmpwZ3w5MTBmMWU2OGRhMGZiN2UxNjBkMzE1ZWNmYTJkODg1NmI4YWY0ODFlOTlmYzgwMzg4MTMyNjQyOTNlODBjODFl",
+        "category":"Sansui",
+        "price":12490,
+        "rating":4,
+        "name":"Sansui 6.5 Kg Top Load Fully Automatic Washing Machine, JSP65FTL-2024B, Ash Grey",
+        "description":"3D Water Fall Magic Filter Water Saving Tub Multi-Function Wash Programme for Indian Requirements",
+        "cart":false
+        },
+        {
+        "id":148,
+        "url":"https://www.reliancedigital.in/medias/CANDY-CDD2582MS-Refrigerators-492664449-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMTgzMjR8aW1hZ2UvanBlZ3xpbWFnZXMvaGM2L2g5Zi85NzkzNTI1NDQ4NzM0LmpwZ3xmOTg4YTRkYThlZmM1NGI4MDljNDY2MzY3NWY5ZWM1MTBlYWM0ZGJhZmIyZTViOTEwMDRhZDEwNTE3NGNmNTY0",
+        "category":"Candy",
+        "price":30499,
+        "rating":4,
+        "name":"Candy 258L 2 Star Frost Free Double Door Refrigerator (CDD2582MS Moon Silver,4 in 1 Swift Convertible,Toughened Glass,Stabilizer Free Operation)Add to Compare",
+        "description":"4-in-1 Convertible Modes 3 Adjustable Toughned Glass Shelves Recess Handle Movable Ice Tray",
+        "cart":false
+        },
+        {
+        "id":149,
+        "url":"https://www.reliancedigital.in/medias/Forbes-MaxxVac-Vacuum-Cleaners-492391700-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNjgyODV8aW1hZ2UvanBlZ3xpbWFnZXMvaDgwL2hkZC85NjQ0MTQyMDM0OTc0LmpwZ3wwYzAyNWVhZTBkY2JhOTI1MmY1OTIwMDgxODQ5MzQ2NTc3ZGVlYjIzMWFhOTlkZTkxM2FiZTMzYjEzYTE5OWNi",
+        "category":"Eureka Forbes",
+        "price":8990,
+        "rating":5,
+        "name":"Eureka Forbes MaxxVac Canister Vacuum Cleaner with Large Dust Tank",
+        "description":"Input Power 1900 Watts Cyclonic Bagless Vacuum Cleaner Powerful Suction 2200 mm of WC Powerful Blower 1200 Litres/Minutes",
+        "cart":false
+        },
+        {
+        "id":150,
+        "url":"https://www.reliancedigital.in/medias/Kelvinator-KDP-08B01W-Refrigerator-491959151-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3OTkxM3xpbWFnZS9qcGVnfGltYWdlcy9oNzEvaGVmLzk2MjAzMzY3MzgzMzQuanBnfDI1ODkyYzkzNDNlM2U0MDQxZGNiOGEzN2VhZTlmMDllM2U0YWZmMzI2NTAwODRkYmZmZjI3NDQ3MjE3MTljMDI",
+        "category":"Kelvinator",
+        "price":16990,
+        "rating":5,
+        "name":"Kelvinator KDP-08B01W 8 Place Dishwasher with Intense Wash Technology, white",
+        "description":"Power Performance: Intense Wash, Multiple Programmes (6 programmes),Clean and Shine , Customised Spray level (2 Levels), Soft Klean.User Comfort: Compact size, Delay Start (2/4/6/8 Hours), Memory Function, Integrated Filter Pro, Double Basket (Upper + Lower), Residual Dry heating, Optimum Water Usage(8 Litre) Energy Efficient: Eco Wash , Low Power Consumption",
+        "cart":false
+        }
+        ]
+    }
   }
