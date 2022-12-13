@@ -1095,6 +1095,1010 @@
         "description":"Power Performance: Intense Wash, Multiple Programmes (6 programmes),Clean and Shine , Customised Spray level (2 Levels), Soft Klean.User Comfort: Compact size, Delay Start (2/4/6/8 Hours), Memory Function, Integrated Filter Pro, Double Basket (Upper + Lower), Residual Dry heating, Optimum Water Usage(8 Litre) Energy Efficient: Eco Wash , Low Power Consumption",
         "cart":false
         }
+        ],
+        "computers": [
+            {
+              "id": "computers1",
+              "name": "HP 14s-dr3001TU Laptop (Intel Pentium Silver N6000/8 GB/256 GB SSD/UHD Graphics/Windows 11 Home/MSO/HD), 35.6 cm (14 inch)",
+              "category": "computers",
+              "price": "₹26,490.00",
+              "rating": "3",
+              "url": "https://i.postimg.cc/NfCDMKSn/Hp-681-Y7-PA-ACJ-Laptop-493178767-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Processor: Intel Pentium Silver N6000",
+                "RAM: 8 GB",
+                "Internal Storage: 256 GB",
+                "Storage Type: SSD",
+                "Operating System: Windows 11 Home",
+                "Microsoft Office included: Yes"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/NfCDMKSn/Hp-681-Y7-PA-ACJ-Laptop-493178767-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/Vk1M7cSz/Hp-681-Y7-PA-ACJ-Laptop-493178767-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/q76kyNkq/Hp-681-Y7-PA-ACJ-Laptop-493178767-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/CLR6FkJR/Hp-681-Y7-PA-ACJ-Laptop-493178767-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/PxFzcVg2/Hp-681-Y7-PA-ACJ-Laptop-493178767-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/VvCGFcJj/Hp-681-Y7-PA-ACJ-Laptop-493178767-i-6-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "computers2",
+              "name": "HP 15s-er1501AU Standard Laptop (AMD Ryzen 3 3250U/8 GB/256 GB SSD/Radeon Graphics/Windows 11 Home/MSO/HD), 39.62 cm (15.6 Inch)",
+              "category": "computers",
+              "price": "₹28,490.00",
+              "rating": "4",
+              "url": "https://i.postimg.cc/SxRnJQ31/HP-ER1501-AU-Laptop-493178397-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Processor: AMD Ryzen 3 3250U",
+                "RAM: 8 GB",
+                "Internal Storage: 256 GB",
+                "Storage Type: SSD",
+                "Operating System: Windows 11 Home",
+                "Microsoft Office included: Yes"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/SxRnJQ31/HP-ER1501-AU-Laptop-493178397-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/QdKj2FRD/HP-ER1501-AU-Laptop-493178397-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/7YGv6pXM/HP-ER1501-AU-Laptop-493178397-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/nL5R6zby/HP-ER1501-AU-Laptop-493178397-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/xT4zGbvV/HP-ER1501-AU-Laptop-493178397-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/GpkT17Zb/HP-ER1501-AU-Laptop-493178397-i-6-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "computers3",
+              "name": "Lenovo L2IN IdeaPad 3 Laptop (11th Gen Intel Core i3-1115G4 /8GB/256GB SSD/Intel UHD Graphics/Windows 11/MSO/Full HD), 39.62 cm (15.6 inch)",
+              "category": "computers",
+              "price": "₹35,499.00",
+              "rating": "4",
+              "url": "https://i.postimg.cc/Jzjj1zXw/Lenovo-L2-IN-Laptops-492574725-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Processor: Intel Core i3-1115G4 Processor",
+                "RAM: 8 GB",
+                "Internal Storage: 256 GB",
+                "Storage Type: SSD",
+                "Operating System: Windows 11 Home",
+                "Microsoft Office included: Yes"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/Jzjj1zXw/Lenovo-L2-IN-Laptops-492574725-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/Hn2sSFch/Lenovo-L2-IN-Laptops-492574725-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/GhLpB36w/Lenovo-L2-IN-Laptops-492574725-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/QxYjHQp1/Lenovo-L2-IN-Laptops-492574725-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/ydKHwvH4/Lenovo-S3-Laptop-492574725-i-5-1200-Wx1200-H.png"
+              ],
+              "cart": false
+            },
+            {
+              "id": "computers4",
+              "name": "Lenovo IdeaPad 3 Thin and Light Laptop (11th Gen Intel Core i3-1115G4/8 GB/512 GB SSD/Windows 11 Home/MSO/FHD), 39.62 cm (15.6 Inch)",
+              "category": "computers",
+              "price": "₹37,999.00",
+              "rating": "4",
+              "url": "https://i.postimg.cc/y6kPM9VW/Lenovo-82-H802-L3-IN-Laptop-493177740-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Processor: 11th Gen Intel Core i3-1115G4 Dual-core",
+                "RAM: 8 GB",
+                "Internal Storage: 512 GB",
+                "Storage Type: SSD",
+                "Operating System: Windows 11 Home",
+                "Microsoft Office included: Yes"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/y6kPM9VW/Lenovo-82-H802-L3-IN-Laptop-493177740-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/nz8FnByZ/Lenovo-82-H802-L3-IN-Laptop-493177740-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/y6vMP0Ld/Lenovo-82-H802-L3-IN-Laptop-493177740-i-8-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/YCfZvgLM/Lenovo-82-H802-L3-IN-Laptop-493177740-i-9-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/sxjvR5Wx/Lenovo-82-H802-L3-IN-Laptop-493177740-i-10-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/wTPTwCw7/Lenovo-82-H802-L3-IN-Laptop-493177740-i-11-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "computers5",
+              "name": "Asus EK522WS Laptop (11th Gen Intel Core i5-1135G7/8 GB/512 GB SSD/Iris Xe Graphics/Windows 11 Home/MSO/FHD), 35.56 cm (14 Inch)",
+              "category": "computers",
+              "price": "₹48,990.00",
+              "rating": "4",
+              "url": "https://i.postimg.cc/jdCywrW5/Asus-X415-EA-EK522-WS-Laptop-493178259-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Processor: 11th Gen Intel Core i5-1135G7",
+                "RAM: 8 GB",
+                "Internal Storage: 512 GB",
+                "Storage Type: SSD",
+                "Operating System: Windows 11 Home",
+                "Microsoft Office included: Yes"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/jdCywrW5/Asus-X415-EA-EK522-WS-Laptop-493178259-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/5NHF9qGQ/Asus-X415-EA-EK522-WS-Laptop-493178259-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/htWhDFTN/Asus-X415-EA-EK522-WS-Laptop-493178259-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/bJBN44qC/Asus-X415-EA-EK522-WS-Laptop-493178259-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/P5jZ6v3L/Asus-X415-EA-EK522-WS-Laptop-493178259-i-5-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "computers6",
+              "name": "Apple MGN63HNA MacBook Air (Apple M1 Chip/8GB/256GB SSD/macOS Big Sur/Retina), 33.78 cm (13.3 inch)",
+              "category": "computers",
+              "price": "₹86,990.00",
+              "rating": "5",
+              "url": "https://i.postimg.cc/YSgCTdvM/Apple-MGN63-HNA-Laptops-491946461-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Processor: Octa-core Apple M1 Chip Processor",
+                "RAM: 8 GB",
+                "Internal Storage: 256 GB",
+                "Storage Type: SSD",
+                "Operating System: Mac OS",
+                "Microsoft Office included: No"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/YSgCTdvM/Apple-MGN63-HNA-Laptops-491946461-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/66HtjkMC/Apple-MGN63-HNA-Laptops-491946461-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/V6L2X6Qp/Apple-MGN63-HNA-Laptops-491946461-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/52mVzDQH/Apple-MGN63-HNA-Laptops-491946461-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/Kj1VsHY5/Apple-MGN63-HNA-Laptops-491946461-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/F1tPCF89/Apple-MGN63-HNA-Laptops-491946461-i-6-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "computers7",
+              "name": "Lenovo 64IN IdeaPad 3 Laptop(12th Gen Intel Core i5-1235U/8 GB/512 GB SSD/Intel Iris Xe Graphics/Windows 11/MSO/Full HD), 39.62 cm (15.6 inch)",
+              "category": "computers",
+              "price": "₹58,099.00",
+              "rating": "3",
+              "url": "https://i.postimg.cc/c4Bx7vV4/Lenovo-82-RK0064-IN-High-End-Laptops-492850698-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Processor: 12th Gen Intel Core i5-1235U Processor",
+                "RAM: 8 GB",
+                "Internal Storage: 512 GB",
+                "Storage Type: SSD",
+                "Operating System: Windows 11 Home",
+                "Microsoft Office included: Yes"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/c4Bx7vV4/Lenovo-82-RK0064-IN-High-End-Laptops-492850698-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/zDSZ69px/Lenovo-82-RK0064-IN-High-End-Laptops-492850698-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/T2kQK0PR/Lenovo-82-RK0064-IN-High-End-Laptops-492850698-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/J4vqqhJv/Lenovo-82-RK0064-IN-High-End-Laptops-492850698-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/Bn2xBBJP/Lenovo-82-RK0064-IN-High-End-Laptops-492850698-i-6-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/YjKvvTGn/Lenovo-82-RK0064-IN-High-End-Laptops-492850698-i-7-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "computers8",
+              "name": "Dell Inspiron 5320 Thin and Light Laptop (12th Gen Intel Core i5-1240P/16 GB RAM/512 GB SSD/Windows 11 Home/MSO/FHD), 33.78 cm (13.3 Inch)",
+              "category": "computers",
+              "price": "₹79,799.00",
+              "rating": "4",
+              "url": "https://i.postimg.cc/7PGML2fc/Dell-D560853-WIN9-S-Laptop-493177302-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Processor: 12th Gen Intel Core i5-1240P, 12 Core",
+                "RAM: 16 GB",
+                "Internal Storage: 512 GB",
+                "Storage Type: SSD",
+                "Operating System: Windows 11 Home",
+                "Microsoft Office included: Yes"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/7PGML2fc/Dell-D560853-WIN9-S-Laptop-493177302-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/cLmfz7bK/Dell-D560853-WIN9-S-Laptop-493177302-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/mgbH7zgT/Dell-D560853-WIN9-S-Laptop-493177302-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/02vMqMm7/Dell-D560853-WIN9-S-Laptop-493177302-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/nV4rTF5r/Dell-D560853-WIN9-S-Laptop-493177302-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/CKnL8SkF/Dell-D560853-WIN9-S-Laptop-493177302-i-6-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "computers9",
+              "name": "Apple MLY33HNA MacBook Air (Apple M2 Chip/8GB/256GB SSD/macOS/Liquid Retina), 34.46 cm (13.6 inch), Midnight",
+              "category": "computers",
+              "price": "₹1,04,313.00",
+              "rating": "5",
+              "url": "https://i.postimg.cc/TPb56rkq/Apple-MLY33-HN-A-Laptop-492850656-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Processor: Apple M2 Chip Processor",
+                "RAM: 8 GB",
+                "Internal Storage: 256 GB",
+                "Storage Type: SSD",
+                "Operating System: macOS Monterey",
+                "Microsoft Office included: No"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/TPb56rkq/Apple-MLY33-HN-A-Laptop-492850656-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/J0pGqKnm/Apple-MLY33-HN-A-Laptop-492850656-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/8z2st71F/Apple-MLY33-HN-A-Laptop-492850656-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/NfV0jK2N/Apple-MLY33-HN-A-Laptop-492850656-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/cJW0vwxc/Apple-MLY33-HN-A-Laptop-492850656-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/C5RV347w/Apple-MLY33-HN-A-Laptop-492850656-i-6-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "computers10",
+              "name": "Apple MBPMKGP3HNA MacBook Pro (Apple M1 Pro chip/16GB/512GB/macOS Monterey/Liquid Retina XDR), 35.97 cm (14 inch)",
+              "category": "computers",
+              "price": "₹1,59,563.00",
+              "rating": "5",
+              "url": "https://i.postimg.cc/0Q2f2WL1/Apple-MBPMKGP3-HNA-Mac-Book-Pro-492573386-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Processor: Apple M1 Pro chip processor",
+                "RAM: 16 GB",
+                "Internal Storage: 512 GB",
+                "Storage Type: SSD",
+                "Operating System: macOS Monterey",
+                "Microsoft Office included: No"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/0Q2f2WL1/Apple-MBPMKGP3-HNA-Mac-Book-Pro-492573386-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/25Cd29jL/Apple-MBPMKGP3-HNA-Mac-Book-Pro-492573386-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/Zqj8gP07/Apple-MBPMKGP3-HNA-Mac-Book-Pro-492573386-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/xqrMHtFC/Apple-MBPMKGP3-HNA-Mac-Book-Pro-492573386-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/4dmWQ2wb/Apple-MBPMKGP3-HNA-Mac-Book-Pro-492573386-i-7-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/bJW3C0BX/Apple-MBPMKGP3-HNA-Mac-Book-Pro-492573386-i-11-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "computers11",
+              "name": "Acer A315-23 Aspire 3 Laptop (AMD Ryzen 3-3250U/4 GB/256 GB SSD/AMD Radeon Graphics/Windows 11/ Full HD), 39.62 cm (15.6 inch)",
+              "category": "computers",
+              "price": "₹24,990.00",
+              "rating": "3",
+              "url": "https://i.postimg.cc/ZRWhvcdX/Acer-15-Aspire3-R3-Laptop-492849812-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Processor: AMD Ryzen 3-3250U Processor",
+                "RAM: 4 GB",
+                "Internal Storage: 512 GB",
+                "Storage Type: SSD",
+                "Operating System: Windows 11 Home",
+                "Microsoft Office included: No"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/ZRWhvcdX/Acer-15-Aspire3-R3-Laptop-492849812-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/4dDj7TZh/Acer-15-Aspire3-R3-Laptop-492849812-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/ZKcDZN9N/Acer-15-Aspire3-R3-Laptop-492849812-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/MKdtg84b/Acer-15-Aspire3-R3-Laptop-492849812-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/bJx9gXkn/Acer-15-Aspire3-R3-Laptop-492849812-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/Zq38YkfQ/Acer-15-Aspire3-R3-Laptop-492849812-i-6-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "computers12",
+              "name": "Acer One 14 Laptop (AMD Ryzen 5 3500U/16 GB/512 GB SSD/Radeon Graphics/Windows 11 Home/HD/MSO), 35.56 cm (14 Inch)",
+              "category": "computers",
+              "price": "₹38,490.00",
+              "rating": "3",
+              "url": "https://i.postimg.cc/v8W3Gn1z/Acer-UN-431-SI-155-Laptop-493178293-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Processor: AMD Ryzen 5-3500U Processor",
+                "RAM: 16 GB",
+                "Internal Storage: 512 GB",
+                "Storage Type: SSD",
+                "Operating System: Windows 11 Home",
+                "Microsoft Office included: No"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/v8W3Gn1z/Acer-UN-431-SI-155-Laptop-493178293-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/y8NPhrLQ/Acer-UN-431-SI-155-Laptop-493178293-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/tCqtyMGq/Acer-UN-431-SI-155-Laptop-493178293-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/k5bWfrKc/Acer-UN-431-SI-155-Laptop-493178293-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/FFZ3PVd2/Acer-UN-431-SI-155-Laptop-493178293-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/GhmY6Tv9/Acer-UN-431-SI-155-Laptop-493178293-i-6-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "computers13",
+              "name": "Microsoft Surface Laptop 4 Thin & Light Laptop (11th Gen Intel Core i5-1135G7/16 GB/512 GB SSD/ Intel Iris Xe Graphics/Windows 11 Home), 34.29 cm (13.5 Inch)",
+              "category": "computers",
+              "price": "₹1,43,999.00",
+              "rating": "5",
+              "url": "https://i.postimg.cc/h42hQS5d/Microsoft-5-AI-00121-Laptop-492850586-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Processor: 11th Gen Intel Core i5-1135G7",
+                "RAM: 16 GB",
+                "Internal Storage: 512 GB",
+                "Storage Type: SSD",
+                "Operating System: Windows 11 Home",
+                "Microsoft Office included: No"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/h42hQS5d/Microsoft-5-AI-00121-Laptop-492850586-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/7YCPCSzF/Microsoft-5-AI-00121-Laptop-492850586-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/5071yt29/Microsoft-5-AI-00121-Laptop-492850586-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/YCHSJh4T/Microsoft-5-AI-00121-Laptop-492850586-i-4-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "computers14",
+              "name": "New Microsoft Surface Pro 9 Intel 12 Gen Evo i7/16GB/512GB/13 inch/GT/W11(QIX-00031) Graphite",
+              "category": "computers",
+              "price": "₹1,92,990.00",
+              "rating": "5",
+              "url": "https://i.postimg.cc/sgxVF7j6/Microsoft-QIX-00031-Laptop-493179023-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Processor: Intel Evo Platform with 12th Gen Intel Core Processor",
+                "RAM: 16 GB",
+                "Internal Storage: 512 GB",
+                "Storage Type: SSD",
+                "Operating System: Windows 11",
+                "Microsoft Office included: No"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/sgxVF7j6/Microsoft-QIX-00031-Laptop-493179023-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/9Md2PBbM/Microsoft-QIX-00031-Laptop-493179023-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/nhNf6Wwr/Microsoft-QIX-00031-Laptop-493179023-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/25nMgSZ9/Microsoft-QIX-00031-Laptop-493179023-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/kGYpWV0G/Microsoft-QIX-00031-Laptop-493179023-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/L8KVwB3R/Microsoft-QIX-00031-Laptop-493179023-i-6-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "computers15",
+              "name": "Asus K8035WS ROG Zephyrus M16 Gaming Laptop (12th Gen-Intel core i7-12700H/16GB/1TB SSD/6GB Nvidia Geforce RTX 3060/Windows 11/MSO/WQXGA), 40.64 cm (16 inch)",
+              "category": "computers",
+              "price": "₹1,79,990.00",
+              "rating": "5",
+              "url": "https://i.postimg.cc/QCSJTRWq/Asus-GU603-ZM-K8035-WS-LAPTOP-492849897-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Processor: 12th Gen-Intel core i7-12700H",
+                "RAM: 16 GB",
+                "Internal Storage: 1 TB",
+                "Storage Type: SSD",
+                "Operating System: Windows 11",
+                "Microsoft Office included: Yes"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/QCSJTRWq/Asus-GU603-ZM-K8035-WS-LAPTOP-492849897-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/qRx8P9Qd/Asus-GU603-ZM-K8035-WS-LAPTOP-492849897-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/bvXkszBh/Asus-GU603-ZM-K8035-WS-LAPTOP-492849897-i-6-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/VLdCgryw/Asus-GU603-ZM-K8035-WS-LAPTOP-492849897-i-7-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/q7Xhq2Ks/Asus-GU603-ZM-K8035-WS-LAPTOP-492849897-i-8-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/wTC7kwc5/Asus-GU603-ZM-K8035-WS-LAPTOP-492849897-i-9-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            }
+          ],
+          "cameras": [
+            {
+              "id": "camaras1",
+              "name": "Canon EOS 1500D DSLR Camera with 18-55 mm and 55-250 mm Dual Lens Kit",
+              "category": "camaras",
+              "price": "₹41,999.00",
+              "rating": "4",
+              "url": "https://i.postimg.cc/jdBBdFy7/Canon-EOS-1500-D-DSLR-Camera-with-18-55-mm-and-55-250-mm-Dual-Lens-Kit-491362609-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Lens Type: Double Zoom Kit(18-55mm+55-250mm)",
+                "Megapixel & Sensor Type: 24.1 MEGAPIXEL CMOS SENSOR",
+                "Auto Focus Points: 9 POINT ALL CROSS TYPE",
+                "ISO Range: ISO 100-12800",
+                "Video Recording: FULL HD VIDEO RECORDING",
+                "Connectivity: WIFI/NFC"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/jdBBdFy7/Canon-EOS-1500-D-DSLR-Camera-with-18-55-mm-and-55-250-mm-Dual-Lens-Kit-491362609-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/h4XBDxNN/Canon-EOS-1500-D-DSLR-Camera-with-18-55-mm-and-55-250-mm-Dual-Lens-Kit-491362609-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/cLZ2n85x/Canon-EOS-1500-D-DSLR-Camera-with-18-55-mm-and-55-250-mm-Dual-Lens-Kit-491362609-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/nh0R9SD2/Canon-EOS-1500-D-DSLR-Camera-with-18-55-mm-and-55-250-mm-Dual-Lens-Kit-491362609-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/CMG4f6y8/Canon-EOS-1500-D-DSLR-Camera-with-18-55-mm-and-55-250-mm-Dual-Lens-Kit-491362609-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/hjF9XVpM/Canon-EOS-1500-D-DSLR-Camera-with-18-55-mm-and-55-250-mm-Dual-Lens-Kit-491362609-i-7-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "camaras2",
+              "name": "Nikon D3500 DSLR Camera with AF-P 18-55 mm + AF-P 70-300 mm VR Kit",
+              "category": "camaras",
+              "price": "₹48,990.00",
+              "rating": "4",
+              "url": "https://i.postimg.cc/7Z89G8hS/Nikon-D3500-DSLR-Camera-491431009-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Lens Type: NIKKOR 18-55mm Lens VR Lens+70-300mm VR Lens",
+                "Megapixel & Sensor Type: 24.2 MEGAPIXEL CMOS SENSOR",
+                "Auto Focus Points: 11 POINT AUTO FOCUS POINTS",
+                "ISO Range: ISO 100-25600",
+                "Video Recording: FULL HD VIDEO RECORDING",
+                "Connectivity: WIFI/BLUETOOTH"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/7Z89G8hS/Nikon-D3500-DSLR-Camera-491431009-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/fRfPMTCV/Nikon-D3500-DSLR-Camera-491431009-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/Jnfxb9Kw/Nikon-D3500-DSLR-Camera-491431009-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/Y0BN4QqM/Nikon-D3500-DSLR-Camera-491431009-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/CKWktb8k/Nikon-D3500-DSLR-Camera-491431009-i-6-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "camaras3",
+              "name": "Nikon D5600 DSLR Camera with AF-P 18-55 mm + AF-P 70-300 mm VR Kit",
+              "category": "camaras",
+              "price": "₹61,990.00",
+              "rating": "5",
+              "url": "https://i.postimg.cc/ZnTrJ45L/Nikon-D5600-20-DZ-491297413-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Lens Type: NIKKOR 18-140mm VR Lens",
+                "Megapixel & Sensor Type: 24.2 MEGAPIXEL CMOS SENSOR",
+                "Auto Focus Points: 9-point autofocus (AF) system",
+                "ISO Range: ISO 100-25600",
+                "Video Recording: FULL HD VIDEO RECORDING",
+                "Connectivity: WIFI/BLUETOOTH/NFC"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/ZnTrJ45L/Nikon-D5600-20-DZ-491297413-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/vZ15YPbC/Nikon-D5600-20-DZ-491297413-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/zBNhk8K1/Nikon-D5600-20-DZ-491297413-i-6-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/c1bHxdC4/Nikon-D5600-20-DZ-Dimension-491297413-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/fLkNp0x7/Nikon-D5600-20-DZ-Dimension-491297413-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/nzQHMDCF/Nikon-D5600-20-DZ-Vari-Angle-LCD-Monitor-491297413-i-11-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "camaras4",
+              "name": "Nikon D7500 DSLR Camera with AF-S DX NIKKOR 18-140mm f/3.5-5.6G ED VR Lens",
+              "category": "camaras",
+              "price": "₹84,990.00",
+              "rating": "4",
+              "url": "https://i.postimg.cc/Y0ZyXd7g/Nikon-VBK510-UN-DSLR-Cameras-491431245-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Lens Type: NIKKOR 18-140mm VR Lens",
+                "Megapixel & Sensor Type: 20.9 MEGAPIXEL CMOS SENSOR",
+                "Auto Focus Points: 51 POINT AUTO FOCUS POINTS",
+                "ISO Range: ISO 100-51200",
+                "Video Recording: 4K UHD VIDEO RECORDING",
+                "Connectivity: WIFI/BLUETOOTH"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/Y0ZyXd7g/Nikon-VBK510-UN-DSLR-Cameras-491431245-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/yxgLS0RN/Nikon-VBK510-UN-DSLR-Cameras-491431245-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/3wxVx4tk/Nikon-VBK510-UN-DSLR-Cameras-491431245-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/K8Jpwcmx/Nikon-VBK510-UN-DSLR-Cameras-491431245-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/9Q811xBf/Nikon-VBK510-UN-DSLR-Cameras-491431245-i-6-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/xTgPTshP/Nikon-VBK510-UN-DSLR-Cameras-491431245-i-7-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "camaras5",
+              "name": "Insta 360 One X2 Action Camera with FlowState Stabilization, Black",
+              "category": "camaras",
+              "price": "₹39,999.00",
+              "rating": "5",
+              "url": "https://i.postimg.cc/mks0RdJs/insta360-0ne-x2-actioncamera-492913003-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "5.7K 360 degree Capture",
+                "Steady Cam Mode",
+                "FlowState Stabilization",
+                "Ultra-Bright Touch Screen",
+                "Waterproof to 10m",
+                "4-Mic 360 degree Audio"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/mks0RdJs/insta360-0ne-x2-actioncamera-492913003-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/m2V0fySv/insta360-0ne-x2-actioncamera-492913003-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/MZmLVmgn/insta360-0ne-x2-actioncamera-492913003-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/yxpXnxFb/insta360-0ne-x2-actioncamera-492913003-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/MGJ09hQq/insta360-0ne-x2-actioncamera-492913003-i-5-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "camaras6",
+              "name": "Canon EOS 1500D DSLR Camera with 18-55 mm Lens Kit",
+              "category": "camaras",
+              "price": "₹38,899.00",
+              "rating": "3",
+              "url": "https://i.postimg.cc/DwxJXHPx/Canon-EOS-1500-D-DSLR-491362608-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "9-point AF with 1 centre cross-type AF point",
+                "24.1 MP APS-C CMOS sensor",
+                "DIGIC 4+ image processor",
+                "Wi-Fi & NFC connectivity"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/DwxJXHPx/Canon-EOS-1500-D-DSLR-491362608-i-1-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "camaras7",
+              "name": "Nikon D850 DSLR Camera with 24-120 mm Lens Kit",
+              "category": "camaras",
+              "price": "₹2,62,992.00",
+              "rating": "5",
+              "url": "https://i.postimg.cc/YS46qtB6/Nikon-D850-DSLR-Cameras-491362271-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "45.7 MP CMOS Sensor",
+                "Tilting TFT touch-sensitive LCD with 170 Degree viewing angle",
+                "Dust-reduction system"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/YS46qtB6/Nikon-D850-DSLR-Cameras-491362271-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/XNKwv2mz/Nikon-D850-DSLR-Cameras-491362271-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/qqp6nTSZ/Nikon-D850-DSLR-Cameras-491362271-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/bJgN72V3/Nikon-D850-DSLR-Cameras-491362271-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/d3DvgNyV/Nikon-D850-DSLR-Cameras-491362271-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/3RfQjjc5/Nikon-D850-DSLR-Cameras-491362271-i-6-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "camaras8",
+              "name": "GoPro Hero10 23 MP Action Camera, waterproof camera with 1080p Live Streaming",
+              "category": "camaras",
+              "price": "₹51,999.00",
+              "rating": "4",
+              "url": "https://i.postimg.cc/XYWF69s0/Go-Pro-HERO10-Black-Action-camera-492571642-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "HyperSmooth 4.0 Video Stabilization",
+                "TimeWarp 3.0 Video",
+                "uperPhoto + HDR",
+                "Digital Lenses (SuperView, Wide, Linear + Horizon Leveling, Linear, Narrow)",
+                "Live Streaming in 1080p",
+                "Webcam Mode, Face, Smile, Blink + Scene Detection and 8x Slo-Mo"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/XYWF69s0/Go-Pro-HERO10-Black-Action-camera-492571642-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/YSnmFZMp/Go-Pro-HERO10-Black-Action-camera-492571642-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/L8vqdwqz/Go-Pro-HERO10-Black-Action-camera-492571642-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/nrvz3Pb9/Go-Pro-HERO10-Black-Action-camera-492571642-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/xCmTd4dp/Go-Pro-HERO10-Black-Action-camera-492571642-i-5-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "camaras9",
+              "name": "Sony Alpha ILCE 6000Y 24.3 MP Mirrorless Digital SLR Camera with 16-50 mm and 55-210 mm Zoom Lenses (APS-C Sensor, Fast Auto Focus, Eye AF) - Black",
+              "category": "camaras",
+              "price": "₹53,990.00",
+              "rating": "5",
+              "url": "https://i.postimg.cc/zG9f1NzH/Sony-Alpha-6000-Y-DSLR-491186291-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Sensor: APS-C CMOS sensor with 24.3 MP (high resolution for large prints and image cropping)",
+                "mage Processor: Bionz X with 179 autofocus points (important for speed and accuracy of autofocus and burst photography)",
+                "Video Resolution: Full HD video with fully manual control and selectable frame rates (great for precision and high-quality video work)",
+                "Connectivity: WiFi, NFC and Bluetooth built-in (useful for remotely controlling your camera and transferring pictures wirelessly as you shoot)",
+                "Lens Mount: Sony E"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/zG9f1NzH/Sony-Alpha-6000-Y-DSLR-491186291-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/gJpknK6Y/Sony-Alpha-6000-Y-DSLR-491186291-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/sf6srzKf/Sony-Alpha-6000-Y-DSLR-491186291-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/X7r3NPDf/Sony-Alpha-6000-Y-DSLR-491186291-i-6-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/Sx00Sx94/Sony-Alpha-6000-Y-DSLR-491186291-i-7-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/k4gz1V0Q/Sony-Alpha-6000-Y-DSLR-491186291-i-8-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "camaras10",
+              "name": "Canon EOS 200D II DSLR Camera with 18-55 mm Lens Kit",
+              "category": "camaras",
+              "price": "₹58,990.00",
+              "rating": "4",
+              "url": "https://i.postimg.cc/C5PcRm5X/Canon-EOS-200-D-II-DSLR-Camera-491431412-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Lens Type: Zoom Kit(18-55mm)",
+                "Megapixel & Sensor Type: 24.1 MEGAPIXEL CMOS SENSOR, DUAL PIXEL AUTO FOCUS",
+                "Auto Focus Points: 9 POINT ALL CROSS TYPE",
+                "ISO Range: ISO 100-51200",
+                "Video Recording: 4K VIDEO & 4K Time Lapse movie",
+                "Connectivity: WIFI/BLUETOOTH"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/C5PcRm5X/Canon-EOS-200-D-II-DSLR-Camera-491431412-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/Wbz9BLfv/Canon-EOS-200-D-II-DSLR-Camera-491431412-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/wMvVYL2V/Canon-EOS-200-D-II-DSLR-Camera-491431412-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/cCrQbZ1k/Canon-EOS-200-D-II-DSLR-Camera-491431412-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/3rcjDy9s/Canon-EOS-200-D-II-DSLR-Camera-491431412-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/nrjD1kT6/Canon-EOS-200-D-II-DSLR-Camera-491431412-i-6-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "camaras11",
+              "name": "Nikon Z FC Mirrorless Camera with 16 to 50 mm Nikkor Z DX Lens Kit",
+              "category": "camaras",
+              "price": "₹88,999.00",
+              "rating": "4",
+              "url": "https://i.postimg.cc/zBD6tdL2/Nikon-Z-fc-Mirrorless-Dslr-492391586-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Digital camera with support for interchangeable lenses",
+                "CMOS Image Sensor, Single Card Slot",
+                "Dust Reduction System: Image Dust Off reference data",
+                "20.9 million Effective pixels",
+                "File System: DCF 2.0 Exif 2.31",
+                "Image Sensor Format: APS-C size/DX-format"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/zBD6tdL2/Nikon-Z-fc-Mirrorless-Dslr-492391586-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/QNywmJjS/Nikon-Z-fc-Mirrorless-Dslr-492391586-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/0yssG0CF/Nikon-Z-fc-Mirrorless-Dslr-492391586-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/FKFX8F8x/Nikon-Z-fc-Mirrorless-Dslr-492391586-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/QxpLMWrb/Nikon-Z-fc-Mirrorless-Dslr-492391586-i-5-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "camaras12",
+              "name": "Sony Alpha ILCE-7M3 Full-Frame 24.2MP Mirrorless Digital SLR Camera Body (4K Full Frame, Real-Time Eye Auto Focus, 4K Vlogging Camera, Tiltable LCD, Low Light Camera), Black",
+              "category": "camaras",
+              "price": "₹1,45,990.00",
+              "rating": "5",
+              "url": "https://i.postimg.cc/66McfWfX/Sony-Alpha-7-M3-DSLR-491362603-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Sensor: 24.2MP 35 mm Full-Frame CMOS Sensor with Back-Illuminated Design",
+                "ISO: Sensitivity Range Up To ISO 51200 (Expandable To ISO 50-204800 For Stills)",
+                "Image Processor: Fast Hybrid AF with 693 Phase-Detection and 425 Contrast-Detection AF Points",
+                "High-Speed Continuous Shooting Of Up To 10fps with AF/AE Tracking",
+                "In-Body 5-Axis Image Stabilisation with 5.0-Stop29 Shutter Speed Advantage",
+                "Interval Shooting For Time-Lapse Movie"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/66McfWfX/Sony-Alpha-7-M3-DSLR-491362603-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/KzZ7twKj/Sony-Alpha-7-M3-DSLR-491362603-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/zBthKBZ2/Sony-Alpha-7-M3-DSLR-491362603-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/pdP5S8P1/Sony-Alpha-7-M3-DSLR-491362603-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/Qtt9839Q/Sony-Alpha-7-M3-DSLR-491362603-i-7-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/Th8pJ5k0/Sony-Alpha-7-M3-DSLR-491362603-i-8-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "camaras13",
+              "name": "GoPro Hero 11 Action Camera with 27 MP + 5.3K60 + 4K120 Resolution Video, Black",
+              "category": "camaras",
+              "price": "₹51,490.00",
+              "rating": "4",
+              "url": "https://i.postimg.cc/dQgbjjBv/Gopro-Hero-11-Action-Camera-493179156-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "HyperSmooth 5.0 Stabilization",
+                "Video: 5.3K60, 4K120, 2.7K240 and more / looping video / 8x slo-mo / 24.7MP frame grabs",
+                "Photo: 27MP / 2x zoom / single photo / night photo / 30 fps burst / RAW",
+                "Camera: Large 5.76 cm (2.27 inch) rear touch screen with touch zoom",
+                "3.5 cm (1.4 inch) front screen for preview or status",
+                "Voice control with 13 commands in 11 languages + 6 accents"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/dQgbjjBv/Gopro-Hero-11-Action-Camera-493179156-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/HLWRkZp0/Gopro-Hero-11-Action-Camera-493179156-i-2-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "camaras14",
+              "name": "Olympus Mirrorless OM-D E-M1X Camera Body, Black",
+              "category": "camaras",
+              "price": "₹1,34,990.00",
+              "rating": "4",
+              "url": "https://i.postimg.cc/76nNJDmf/Olympus-EM1-XINBLK-CAMERA-492571618-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Introducing the OM-D E-M1X camera designed with professional photographer’s in mind to meet the performance and feature needs of the most demanding photographers.",
+                "The image stabilisation performance is industry leading with up to 7.5[*] shutter speed steps of compensation performance.",
+                "Photo: 27MP / 2x zoom / single photo / night photo / 30 fps burst / RAW",
+                "Featuring two TruePic VIII image processors, this model features vastly improved AF with new subject detection auto-focus technology, high frame rate performance, and stunning image quality with the ability to deliver 50MP equivalent Handheld High Res Shot.",
+                "Additionality the highly configurable and operational performance of the camera with both a vertical and horizontal grip that creates the same tactile feel for photographer regardless of the orientation all packed into a dustproof, splashproof, and freezeproof compact body."
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/76nNJDmf/Olympus-EM1-XINBLK-CAMERA-492571618-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/Jhw3TtFs/Olympus-EM1-XINBLK-CAMERA-492571618-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/2y5nqW1K/Olympus-EM1-XINBLK-CAMERA-492571618-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/QM4T2t4g/Olympus-EM1-XINBLK-CAMERA-492571618-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/BnNLFb0W/Olympus-EM1-XINBLK-CAMERA-492571618-i-5-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/zBHV4kR5/Olympus-EM1-XINBLK-CAMERA-492571618-i-6-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            },
+            {
+              "id": "camaras15",
+              "name": "Sony Alpha ILCE 6400M 24.2 MP Mirrorless Digital SLR Camera with 18-135 mm Power Zoom Lens (APS-C Sensor, Fast Auto Focus, Real-time Eye AF, Real-time Tracking, 4K Vlogging Camera & Tiltable screen)",
+              "category": "camaras",
+              "price": "₹1,02,990.00",
+              "rating": "5",
+              "url": "https://i.postimg.cc/kgjHpNmT/Sony-Alpha-6400-M-DSLR-491431250-i-1-1200-Wx1200-H.jpg",
+              "description": [
+                "Sensor: APS-C CMOS sensor with 24.2 MP (high resolution for large prints and image cropping)",
+                "Fast Hybrid AF brings high speed, accuracy and tracking performance to meet the stringent autofocus demands of 4K movies.",
+                "Image Processor: Bionz X 4D focus with fast hybrid AF and 425 phase detection autofocus points (important for speed and accuracy of autofocus and burst photography)",
+                "The standard ISO sensitivity range has been extended to ISO 100–32000 (expandable to ISO 50–102400 for stills). Even when you're shooting at high sensitivity in dim lighting, excellent low-noise performance ensures high-quality images.",
+                "Connectivity: WiFi, NFC and Bluetooth built-in (useful for remotely controlling your camera and transferring pictures wirelessly as you shoot)"
+              ],
+              "snapshots": [
+                "https://i.postimg.cc/kgjHpNmT/Sony-Alpha-6400-M-DSLR-491431250-i-1-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/4dpBsVDk/Sony-Alpha-6400-M-DSLR-491431250-i-2-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/3x77TFz7/Sony-Alpha-6400-M-DSLR-491431250-i-3-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/RCRLdS9R/Sony-Alpha-6400-M-DSLR-491431250-i-4-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/WbY6R5dq/Sony-Alpha-6400-M-DSLR-491431250-i-7-1200-Wx1200-H.jpg",
+                "https://i.postimg.cc/zfJQdd6b/Sony-A6400-M-DSLR-491431250-i-10-1200-Wx1200-H.jpg"
+              ],
+              "cart": false
+            }
+          ],
+          "Television" : [
+            {
+                "id":106,
+                "img": "https://www.reliancedigital.in/medias/Samsung-UA32T4010ARXXL-LED-TV-492796778-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMDg0Mjl8aW1hZ2UvanBlZ3xpbWFnZXMvaDQ3L2hhNy85ODA4ODgwOTI2NzUwLmpwZ3w3YzdkYTczYzIwMGM4NWJhNjJmMzg1YmExNDg2NTI5ZWFmZDE5ODc2NDg1YmM5ODQ0NDkzNjI1NDdhYjVjMTE2",
+                "comp":"Samsung 80 cm (32 inch)",
+                "desc":"HD Ready LED TV, UA32T4010ARXXL (Black)",
+                "price": 12990,
+                "rating":"",
+                "cart":false
+              },
+              {
+                "id":107,
+                "img": "https://www.reliancedigital.in/medias/Samsung-UA43TE50AAKXXL-Smart-LED-TV-492166127-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNTQzNDN8aW1hZ2UvanBlZ3xpbWFnZXMvaGNjL2gzNS85ODA3MTA5Njg1Mjc4LmpwZ3wyMWIwNzYyODcxYjlkMTk1YTUwZWEwMDNlZTVhMDNmMjMwMTE1ZWYzOWFiZWJiMmI0MjczNTIzY2NjNGM3ODYx",
+                "comp":"Samsung 108 cm (43 inch)",
+                "desc":"Wondertainment Series Full HD LED Smart TV, UA43TE50AAKXXL (Titan Gray)",
+                "price": 32799,
+                "rating":"",
+                "cart":false
+              },
+              {
+                "id":108,
+                "img": "https://www.reliancedigital.in/medias/Samsung-UA32T4340BKXXL-Smart-Television-492403650-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxOTMxMDl8aW1hZ2UvanBlZ3xpbWFnZXMvaDIyL2hmMy85ODQyMjA0OTM0MTc0LmpwZ3w4MTM3ZTc5YjY1NzhiNTYyZDFiMmNhMDI3OWU3NzQxZWUzMmVmYWI5NmFiMDUxMmY2ZjAzNWQyZjBmZDI3YTkx",
+                "comp":"Samsung Wondertainment 80 cm (32 Inch)",
+                "desc":"Smart HD Ready TV, UA32T4340BKXXL",
+                "price": 13099,
+                "rating":"",
+                "cart":false
+              },
+              {
+                "id":109,
+                "img": "https://www.reliancedigital.in/medias/Samsung-UA55AUE70AKLXL-LED-TV-492796786-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNTQzNDN8aW1hZ2UvanBlZ3xpbWFnZXMvaDE1L2gwYS85ODA4NTM1NDUzNzI2LmpwZ3xjOTA0MTU0MjNlNDFkOGNhZGEwZjg2ZGI4MTYxMTIxMGE1NWQ4OWU0Y2U2ZTQ2MzNmYTkxNmM3YWQ2MjVhZmZi",
+                "comp":"SAMSUNG Crystal 4K Pro 138 cm (55 inch)",
+                "desc":"Ultra HD (4K) LED Smart TV with Voice Search (UA55AUE70AKLXL)",
+                "price": 52990,
+                "rating":"",
+                "cart":false
+              },
+              {
+                "id":110,
+                "img": "https://www.reliancedigital.in/medias/ONEPLUS-32Y1-TV-491895010-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjEzMzZ8aW1hZ2UvanBlZ3xpbWFnZXMvaGI4L2gyZC85ODEwMDU4NzA2OTc0LmpwZ3w2Yzg5YmJmZWM4NTdhYmY1MDA0OWRkYTFlZTA0ZWM1MzNkYjA4NzNmZDliZWFkYzg2ZWIyZmE5MmE4YjBjNzc3",
+                "comp":"ONEPLUS 81.28 cm (32 inch)",
+                "desc":"HD Smart LED TV, 32Y1",
+                "price": 12599,
+                "rating":"",
+                "cart":false
+              },
+              {
+                "id":111,
+                "img":"https://www.reliancedigital.in/medias/OnePlus-40Y1-Television-492338486-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2MDU4Mzh8aW1hZ2UvanBlZ3xpbWFnZXMvaGExL2g3NC85NTU3NDQyODg3NzEwLmpwZ3w1MDNjY2ZlOTE2NmUzNzlmZjcwMTJmM2Q5Mjg4OGY1NzM2ZDFlN2UyZDU3YTBkYWFkYjg0ZDk5OTQxNzVjZDc5",
+                "comp":"OnePlus 100 cm (40 inch)",
+                "desc":"Full HD LED Smart TV, Y Series 40Y1",
+                "price": 19999 ,
+                "rating":"",
+                "cart":true
+              },
+              {
+                  "id":112,
+                  "img":"https://www.reliancedigital.in/medias/OnePlus-55U1S-Television-492338514-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMjI2NzF8aW1hZ2UvanBlZ3xpbWFnZXMvaGExL2gzNi85NTY4NDA0MTExMzkwLmpwZ3wwN2MwZmY1OTJiMmJhM2QwNGU0Y2QwMTQxNDRmYmQ4ZDg5ZTNhYjExMDUyNjdjMDExMzAxMGM1MmU2MDY3MjA1",
+                  "comp":"OnePlus 138.7 cm (55 inch)",
+                  "desc":"Ultra HD (4K) LED Smart TV, U Series 55U1S",
+                  "price": 42999,
+                  "rating":"",
+                "cart":true
+                },
+                {
+                  "id":113,
+                  "img":"https://www.reliancedigital.in/medias/Realme-Realme-32-Televisions-491973484-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2MTYxNTl8aW1hZ2UvanBlZ3xpbWFnZXMvaDczL2hlZS85NDc1OTcxOTczMTUwLmpwZ3wwM2Y5M2JiMjA1NWNiYTYyMzk0Y2NkODA1MzUxYzdjODg4MTViZDU1N2FhZGVhODAwZDJjZDYzZWM1NjkzMDFl",
+                  "comp":"Realme 80 cm (32 inch)",
+                  "desc":"HD Ready LED Smart TV",
+                  "price": 12999,
+                  "rating":"",
+                "cart":true
+                },
+                {
+                  "id":114,
+                  "img": "https://www.reliancedigital.in/medias/Realme-Realme-55-Televisions-491973486-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNjUyMTV8aW1hZ2UvanBlZ3xpbWFnZXMvaDVjL2hlNS85NDc1OTcyMzAwODMwLmpwZ3w2N2VmZGM3MmM1ZWUyNzNhNDM2ZTZlMTY0ODA0NjUyZjMyMWEyMThjZWE4ZTQ3N2ViYmY1NjFmOWE1OThkZTE5",
+                  "comp":"Realme 139 cm (55 inch)",
+                  "desc":"Ultra HD (4K) LED Smart TV",
+                  "price": 38999,
+                  "rating":"",
+                "cart":false
+                },
+                {
+                  "id":115,
+                  "img": "https://www.reliancedigital.in/medias/realme-RMV2004-Televisions-492338547-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMDMwMDB8aW1hZ2UvanBlZ3xpbWFnZXMvaDhkL2gyZS85NTc2OTQ3NDQ5ODg2LmpwZ3w1OGM1NjM2ZjIyNTQ0YTZkMzk5MWZiNGM2MDc2ZDVhNTA0YzlhYzcxODEwZGRlNmMyYzc4YmE3MWU3ZGY0NTJk",
+                  "comp":"realme 108 cm (43 inch)",
+                  "desc":"Ultra HD (4K) LED Smart TV, RMV2004",
+                  "price": 27599,
+                  "rating":"",
+                "cart":false
+                },
+                {
+                  "id":116,
+                  "img": "https://www.reliancedigital.in/medias/Mi-4A-Horizon-Edition-Television-492166368-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjk2MzB8aW1hZ2UvanBlZ3xpbWFnZXMvaDY5L2hkYS85NzkwODc0NTE3NTM0LmpwZ3wwYmMzMWVjZWU4M2FiOTljNmVmNTYzYjhlYjY1NGIyZTEwNzc0ZTI1M2Y3YTFhMTEyYmRlOGMyODYwMmUzYzU1",
+                  "comp":"MI 32",
+                  "desc":"HD Ready Smart LED TV, 4A Horizon, ELA4546IN",
+                  "price": 16799,
+                  "rating":"",
+                  "cart":false
+                },
+                {
+                  "id":117,
+                  "img": "https://www.reliancedigital.in/medias/Mi-ELA4642IN-Televisions-492391655-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNTY1MTh8aW1hZ2UvanBlZ3xpbWFnZXMvaGFiL2g2NC85NjI1MDUwMjE4NTI2LmpwZ3w1MzVlNDg0MjRmNTFjNjY2ZWVlYTQ5NzgwNmI1MGYxN2EwZWE0ZmRmM2M5ZmI4YTI1ZmIxOWU0N2IzNDVjOTlm",
+                  "comp":"Mi 101.6 cm (40 inch)",
+                  "desc":"Full HD Smart LED TV, 4A Horizon, ELA4642IN",
+                  "price": 21799,
+                  "rating":"",
+                  "cart":false
+                },
+                {
+                    "id":118,
+                    "img": "https://www.reliancedigital.in/medias/Samsung-UA32T4010ARXXL-LED-TV-492796778-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMDg0Mjl8aW1hZ2UvanBlZ3xpbWFnZXMvaDQ3L2hhNy85ODA4ODgwOTI2NzUwLmpwZ3w3YzdkYTczYzIwMGM4NWJhNjJmMzg1YmExNDg2NTI5ZWFmZDE5ODc2NDg1YmM5ODQ0NDkzNjI1NDdhYjVjMTE2",
+                    "comp":"Samsung 80 cm (32 inch)",
+                    "desc":"HD Ready LED TV, UA32T4010ARXXL (Black)",
+                    "price": 12990,
+                    "rating":"",
+                    "cart":false
+                  },
+                  {
+                    "id":119,
+                    "img": "https://www.reliancedigital.in/medias/Samsung-UA43TE50AAKXXL-Smart-LED-TV-492166127-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNTQzNDN8aW1hZ2UvanBlZ3xpbWFnZXMvaGNjL2gzNS85ODA3MTA5Njg1Mjc4LmpwZ3wyMWIwNzYyODcxYjlkMTk1YTUwZWEwMDNlZTVhMDNmMjMwMTE1ZWYzOWFiZWJiMmI0MjczNTIzY2NjNGM3ODYx",
+                    "comp":"Samsung 108 cm (43 inch)",
+                    "desc":"Wondertainment Series Full HD LED Smart TV, UA43TE50AAKXXL (Titan Gray)",
+                    "price": 32799,
+                    "rating":"",
+                    "cart":false
+                  },
+                  {
+                    "id":120,
+                    "img": "https://www.reliancedigital.in/medias/Samsung-UA32T4340BKXXL-Smart-Television-492403650-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxOTMxMDl8aW1hZ2UvanBlZ3xpbWFnZXMvaDIyL2hmMy85ODQyMjA0OTM0MTc0LmpwZ3w4MTM3ZTc5YjY1NzhiNTYyZDFiMmNhMDI3OWU3NzQxZWUzMmVmYWI5NmFiMDUxMmY2ZjAzNWQyZjBmZDI3YTkx",
+                    "comp":"Samsung Wondertainment 80 cm (32 Inch)",
+                    "desc":"Smart HD Ready TV, UA32T4340BKXXL",
+                    "price": 13099,
+                    "rating":"",
+                    "cart":false
+                  }
+        ],
+    
+        "Audio" : [
+            {
+              "id":121,
+              "img":"https://www.reliancedigital.in/medias/Boat-Rockerz-400-RTL-Headphone-491893327-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNDg1M3xpbWFnZS9qcGVnfGltYWdlcy9oMmIvaDk3Lzk3NjU0MDU1ODk1MzQuanBnfDYxZDE0NTgwMDZhMGEzNzJkN2Q2NGU2ZTkwNmE4OWNhMWNhODgzNzdmYTI5NmJiMTIxMGMyMTI5OGMxMDVmNWY",
+              "comp":"boat-rockerz-400-rtl-bluetooth-headphone",
+              "desc":"Powerful Bass and Vocal Clarity, Black",
+              "price": 999 ,
+              "rating":"",
+              "cart":true
+            },
+            {
+                "id":122,
+                "img":"https://www.reliancedigital.in/medias/Boat-Rockerz-400-RTL-Headphone-492579325-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMjE0ODF8aW1hZ2UvanBlZ3xpbWFnZXMvaDIyL2hjZS85NzY1Mzk0NTEzOTUwLmpwZ3w3OWVkYzBjNjNjNzk4Y2FjM2ZmOGJmY2E2NTFhYmIzNWRiY2E4MTA1ZWQzZDdiODI2NTY3YzE2M2I0MzQ3MmYz",
+                "comp":"boAt Rockerz 400 RTL Bluetooth Headphone",
+                "desc":"Powerful Bass and Vocal Clarity, Grey/Green",
+                "price": 999,
+                "rating":"",
+              "cart":true
+              },
+              {
+                "id":123,
+                "img":"https://www.reliancedigital.in/medias/Boat-Rockerz-400-RTL-Headphone-491893329-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMzE1MTl8aW1hZ2UvanBlZ3xpbWFnZXMvaDRhL2g5My85NzY1NDExMDI5MDIyLmpwZ3w2YjQ0YWU4NjI5MmE3NjU3MWNhMDZlOWE0NTkxMzY2NDY4ZDk2YmNmZjc1MTU0ZjQ5ZjMzNTlkMjk4MzRkMmU2",
+                "comp":"boAt Rockerz 400 RTL On-Ear Bluetooth Headphones",
+                "desc":"Voice Assistant with one-click, Blue",
+                "price": 999,
+                "rating":"",
+              "cart":true
+              },
+              {
+                "id":124,
+                "img": "https://www.reliancedigital.in/medias/Reconnect-DBTH502-AV-Headphones-and-Headsets-491600563-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3MDU2NjJ8aW1hZ2UvanBlZ3xpbWFnZXMvaDE4L2gyOC85NDc0MjY5MDIwMTkwLmpwZ3wwMzhiYzdkNjlhMmUyZTQzN2I1MmE1NTc5YmFhNDcwMTlkYTg4ZDVlOWJjYzE4OGQ4NzQ4ZGFjOTdjNmRhOWE2",
+                "comp":"Reconnect Marvel Avengers",
+                "desc":"Active Noise Cancelation Over Ear Foldable Wireless Headphone, Built in mic, 14hrs playtime, Bluetooth, Multipairing tech, Super hero design",
+                "price": 799,
+                "rating":"",
+              "cart":false
+              },
+              {
+                "id":125,
+                "img": "https://www.reliancedigital.in/medias/Reconnect-DBTH301-AV-Headphones-and-Headsets-491600576-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2ODExMjF8aW1hZ2UvanBlZ3xpbWFnZXMvaDE2L2g3OS85NDcxMjM2ODY2MDc4LmpwZ3w3ZjAzZTdmMDY0YmE3ODJmNThjYzg5Njc2NDY0NGI5MzVhZWNmYTE0MmNmYWJkOTYyMDJlOWRlOTA0MGRiNjhi",
+                "comp":"Reconnect Marvel Avengers",
+                "desc":"On ear foldable Wireless Headphone with built in mic & Siri/Alexa/GoogleOk compatible, 10hrs playtime, Super hero Design",
+                "price": 599,
+                "rating":"",
+              "cart":false
+              },
+              {
+                "id":126,
+                "img": "https://www.reliancedigital.in/medias/Reconnect-DBTH502-DP-Headphones-and-Headsets-491600565-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2NDY4MDR8aW1hZ2UvanBlZ3xpbWFnZXMvaGMxL2gzMC85NDc0MjgwNDg4OTkwLmpwZ3w4NTA4YjBhZGFiMGE1ODRjNGNmNWU4MzRiMzg1MjM5ZmYxZDExZTdmYjYxMzljM2VlZGQ2NDYyYWYxYzhmN2Qy",
+                "comp":"Reconnect Marvel Dead pool",
+                "desc":"Over the ear Wireless Headphone, built in mic with noise cancellation, Sweat resistant, 14hrs playtime, Multipairing tech, Super hero design",
+                "price": 799,
+                "rating":"",
+                "cart":false
+              },
+              {
+                "id":127,
+                "img": "https://www.reliancedigital.in/medias/Reconnect-DBTH502-BP-Headphones-and-Headsets-491600564-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyODY3NTN8aW1hZ2UvanBlZ3xpbWFnZXMvaDAxL2gzOC85NTE2MDY0OTk3NDA2LmpwZ3xlNTM5MmZkZDdjZmIyNzljMDIyODY5NmNkODEwNTVmYmM1MjUzYmEzM2MwNmFhNjIxNmUxOGFlMTliODZiYTg4",
+                "comp":"Reconnect Marvel Black Panther",
+                "desc":"Active Noise Cancelation Over Ear Foldable Wireless Headphone, Built in mic, 14hrs playtime, Bluetooth, Multipairing tech, Super hero design",
+                "price": 799,
+                "rating":"",
+                "cart":false
+              },
+              {
+                "id":128,
+                "img": "https://www.reliancedigital.in/medias/491167179-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3NzY0NHxpbWFnZS9wbmd8aW1hZ2VzL2gzMi9oOTgvODkyNzg1NTc3MTY3OC5wbmd8M2VjYzAwZDE4YmFmYWMwMWYwNmYxMDgzOGU1ZGJhN2ZkZTU5ODZiZTdlNzJkMmEwNjc2MjIwZDc0OWYwZjczZA",
+                "comp":"JBL T300A",
+                "desc":"On-Ear Wired Headphone, Blue/White",
+                "price": 1099,
+                "rating":"",
+                "cart":false
+              },
+              {
+                "id":129,
+                "img": "https://www.reliancedigital.in/medias/JBL-JBLE65BTNCBLU-Headphones-and-Headstes-491377984-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNTk4MzF8aW1hZ2UvanBlZ3xpbWFnZXMvaDg2L2g5Zi84OTIxODQ2MzgyNjIyLmpwZ3w4OGI0NjNiMmNkM2YyOTVmNjI1OTQwMGZhZmMzMzQyOWNiM2E2OTM2NWNiYTJkYTkyODExNTNjNDVmNGUwNzBm",
+                "comp":"JBL E65BTNC",
+                "desc":"Wireless Headphone, Blue",
+                "price": 8250,
+                "rating":"",
+                "cart":false
+              },
+              {
+                "id":130,
+                "img": "https://www.reliancedigital.in/medias/JBL-T450A-Headphones-and-Headsets-491315269-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjY4NDR8aW1hZ2UvanBlZ3xpbWFnZXMvaDE3L2g3Mi84OTM2ODE3MDMzMjQ2LmpwZ3wxNGUxMGRhN2JjNDA3MTcwYjZiNDI4NjRlYTE4ZjNkYzcwZWM4M2Y3OGM0NWJhNjYwNjRmNGY1MzkzMTNmZTkw",
+                "comp":"JBL T450",
+                "desc":"Wired Headphone with Mic, Pure Bass sound (White)",
+                "price": 1599,
+                "rating":"",
+                "cart":false
+              },
+              {
+                "id":131,
+                "img": "https://www.reliancedigital.in/medias/Philips-SHB7250-00-Wireless-Bluetooth-Headphone-Black-491276966-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNzgzNzl8aW1hZ2UvanBlZ3xpbWFnZXMvaGIwL2g4ZS84OTI3Nzk2NTkyNjcwLmpwZ3xkYjFkYTUzMjBiZjI0YjliMzAwYjQ1YzI2MmNjYTA1ODVhODBiNmM3OTc5YmIyMmUwODBmMzhhNjhmOTA3MGNk",
+                "comp":"Philips SHB7250",
+                "desc":"Wireless Headphone with Digital Echo & Noise Reduction, Auto Power off (Black)",
+                "price": 2545,
+                "rating":"",
+                "cart":false
+              },
+              {
+                "id":132,
+                "img": "https://www.reliancedigital.in/medias/JBL-660NC-Wireless-Bluetooth-Noise-Cancelling-Headphones-Black-492338701-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNTU1NDJ8aW1hZ2UvanBlZ3xpbWFnZXMvaDdhL2gxZC85NjAxNTI4MTAyOTQyLmpwZ3xlYmJkMWUzZmIxMjZlMjdmN2Q1ZjFmNmNkYTg4OGQxZGQ5YjdiMTUzYzJmZjE1ZWJkMmNjMzc1YTM3ZjIyNGFi",
+                "comp":"JBL Live 660NC",
+                "desc":"Wireless Headphone with Noise Cancellation, Black",
+                "price": 9998,
+                "rating":"",
+                "cart":false
+              },
+              {
+                "id":133,
+                "img": "https://www.reliancedigital.in/medias/Fire-Boltt-BH1300-BTSTEREOHEADPHONE-Blast1300BLK-492571472-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMzI2OTR8aW1hZ2UvanBlZ3xpbWFnZXMvaDJlL2g4My85NjcyODYxODEwNzE4LmpwZ3w4NTY2NzY4NjZhNDhmOGZiZmExZjUzZGZkMmNiNTk0ZjljMzFjNmZhNWRhNjU0OTk3YjdiMjkzMDNiMGE1YzFj",
+                "comp":"Fire-Boltt-Blast 1300",
+                "desc":"Bluetooth Stereo Headphone with Passive Noise Cancellation",
+                "price": 1199,
+                "rating":"",
+                "cart":false
+              },
+              {
+                "id":134,
+                "img": "https://www.reliancedigital.in/medias/ZEBRONICS-Zeb-DUKEBLUE-BTSTEREOHEADPHONE-492573079-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2NDI3N3xpbWFnZS9qcGVnfGltYWdlcy9oNDEvaGMzLzk2OTAxODM0NjcwMzguanBnfGM0YWE5MjYwNzcyNjA5YjNjZTVkMTJjZWJiNTA0ZDMxNmViODM1ZDQ5NmQ0OTk0YTYyMjFlZThmYTI0MGQ3MWM",
+                "comp":"Zebronics Zeb-Duke",
+                "desc":"Wireless Bluetooth Headphone with RGB Lights, 30 hours Playback, Voice Assistant, Blue",
+                "price": 1599,
+                "rating":"",
+                "cart":false
+              },
+              {
+                "id":135,
+                "img": "https://www.reliancedigital.in/medias/ZEBRONICS-Zeb-DUKEGREEN-BTSTEREOHEADPHONE-492573078-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2ODkwOXxpbWFnZS9qcGVnfGltYWdlcy9oYmUvaGE4Lzk2OTAxODg1MTMzMTAuanBnfDNjZDYyY2M2NmMwZTM0MTFjMDk0MDQzMTQxYmIyNjRlMGQ5YTRiM2FiYWVkYWViZWRjYmE2OTNjZDYzMTVjMjA",
+                "comp":"Zebronics Zeb-Duke",
+                "desc":"Wireless Bluetooth Headphone with RGB Lights, 30 hours Playback, Voice Assistant, Green",
+                "price": 1599,
+                "rating":"",
+                "cart":false
+              }
         ]
     }
   }
