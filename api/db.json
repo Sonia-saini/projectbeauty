@@ -2100,5 +2100,164 @@
                 "cart":false
               }
         ]
+        ,
+        "accessories":[
+          {
+          "id":1,
+          "url":"https://www.reliancedigital.in/medias/GoPro-ACBAT-001-Camera-Accessories-491630513-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzMTExfGltYWdlL2pwZWd8aW1hZ2VzL2gwNy9oOTYvOTIzMjExODIxODc4Mi5qcGd8YWM1ODMxY2ZjNDU3ZjY1YmY4MDllM2Y4ODNiZDc1ZmNmMzliZTc0NDIxMTYyNjRiZDFkMWQ3OWI4NTM1Mjc5Mg",
+          "category":"Accessories",
+          "price":2600,
+          "rating":4.5,
+          "name":"GoPro 600 mAh Rechargeable Battery, ACBAT-001",
+          "description":"Shop for Rs.20,000 & above and get instant discount Up To Rs.5000,Use coupon codes YES1000 for above 20,000 ,YES2500 for above 50,000, YES5000 for above 1,00,000",
+          "cart":false
+          },
+          {
+          "id":2,
+          "url":"https://www.reliancedigital.in/medias/Sony-BC-QZ1-Camera-Battery-491430730-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNzA4NDJ8aW1hZ2UvanBlZ3xpbWFnZXMvaDRiL2g0MC85NzczMjY3NTgzMDA2LmpwZ3wyYmFjOWM4NzNlM2JhMGMzYTRlMmY1Nzk1MzUxZjM2YzI4YzljM2I0ZjQyNWUzNmY5MGY0NTgxMTRjMzcyMzFj",
+          "category":"Accessories",
+          "price":6390,
+          "rating":3.7,
+          "name":"Sony BC-QZ1 Camera Battery Charger for NP-FZ100 Battery Pack (Black)",
+          "description":"Get Cashback upto Rs. 1,000 on Mobikwik Wallet",
+          "cart":false
+          },
+          {
+          "id":3,
+          "url":"https://www.reliancedigital.in/medias/Reconnect-2USB-AC-Adapter-RAUAB2102-491378380-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMTkzNnxpbWFnZS9qcGVnfGltYWdlcy9oMzgvaDlkLzkwNTcwODg3OTg3NTAuanBnfDViMjI5MTNmZTJmZGYyNmZjMjJjZWVmYzIxMmUwZGYzNjRjNzAyODZmOWE5ODA5MzNhNDkyY2I0NzFjMTVmMmM",
+          "category":"Accessories",
+          "price":299,
+          "rating":4,
+          "name":"Reconnect RAUAB2102 2 Amp USB AC Adapter",
+          "description":"Shop for Rs.20,000 & above and get instant discount Up To Rs.5000,Use coupon codes YES1000 for above 20,000 ,YES2500 for above 50,000, YES5000 for above 1,00,000.",
+          "cart":false
+          },
+          {
+          "id":4,
+          "url":"https://www.reliancedigital.in/medias/Apple-MD565HN-A-Chargers-and-adapters-491229576-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMDUxMXxpbWFnZS9qcGVnfGltYWdlcy9oODEvaDU1LzkwMTEyNjM4OTc2MzAuanBnfDAwY2NmZTAyMjU1NzVhMzQ3NGM1MzdlYjgzNzY4NmFmYTU5N2UwNDljODQxZTY2NTI3MDU4NzVjZGI1ZDhjZmI",
+          "category":"Accessories",
+          "price":6900,
+          "rating":5,
+          "name":"Apple Magsafe 2 MD565HN/A 60 Watts Travel Adapter with LED indicator and Magnetic DC Connector",
+          "description":"Get Cashback upto Rs. 1,000 on Mobikwik Wallet",
+          "cart":false
+          },
+          {
+          "id":5,
+          "url":"https://www.reliancedigital.in/medias/Cyber-CPSAC2A2UEU-Chargers-Adapters-491229228-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NDc1MHxpbWFnZS9qcGVnfGltYWdlcy9oNTMvaGVhLzg5MjA5Mzg0MTQxMTAuanBnfDIwOGVhOTkzOTk5ZjQxNGI5ZTdkMTMxNGUwNGY4NWYwNzhmODE3MWY0NjZhZDE5ZGViYTYwZDI2Y2NkMWE2YjY",
+          "category":"Accessories",
+          "price":599,
+          "rating":3.6,
+          "name":"Cyber Power CPSAC1A2UEU Dual Port Wall Adapter Built-In Overload and Overheat Protection",
+          "description":"Shop for Rs.20,000 & above and get instant discount Up To Rs.5000,Use coupon codes YES1000 for above 20,000 ,YES2500 for above 50,000, YES5000 for above 1,00,000",
+          "cart":false
+          },
+          {
+          "id":6,
+          "url":"https://www.reliancedigital.in/medias/Reconnect-DBTM103-TH-Computer-Speakers-491630478-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzOTUwOXxpbWFnZS9qcGVnfGltYWdlcy9oNzkvaDE4Lzk3NDE5NzkxMjM3NDIuanBnfGZkNTBlNzRkNGQ0M2M5YmMyZjc1NmM3MDc2MDVkZmU0NTIyYmVjMWQ4NzVkOTY5MGQzMzZjZDE1MzkxODc1YTU",
+          "category":"Accessories",
+          "price":699,
+          "rating":4.6,
+          "name":"Reconnect Marvel Captain America 3W Wireless Bluetooth Speaker, Water resistant, Ipx4, 3.5hrs playtime, Handsfree calling, Siri/Alexa/GoogleOk compatible, Personal speaker - DBTM102 CA",
+          "description":"Shop for Rs.20,000 & above and get instant discount Up To Rs.5000,Use coupon codes YES1000 for above 20,000 ,YES2500 for above 50,000, YES5000 for above 1,00,000",
+          "cart":false
+          },
+          {
+          "id":7,
+          "url":"https://www.reliancedigital.in/medias/pTron-Musicbot-Lite-Black-Bluetooth-Speaker-493179239-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDYwMTZ8aW1hZ2UvanBlZ3xpbWFnZXMvaGQ1L2g1Ny85ODk1OTIwMTQwMzE4LmpwZ3w4MTVjNzBkN2MzNDE2NDk4MzI0ZGFkMmI5YjkxNTFhMDM3OGE3OTBlYzRkOGQ0ZTlkN2Y4OGE0YmQ2ODA1NWVi",
+          "category":"Accessories",
+          "price":799,
+          "rating":3.9,
+          "name":"pTron Musicbot Lite 5W Mini Bluetooth Speaker With 6Hrs Playtime, Immersive Sound, 40mm Driver, Bluetooth V5.1 Connectivity (Black)",
+          "description":"Shop for Rs.20,000 & above and get instant discount Up To Rs.5000,Use coupon codes YES1000 for above 20,000 ,YES2500 for above 50,000, YES5000 for above 1,00,000",
+          "cart":false
+          },
+          {
+          "id":8,
+          "url":"https://www.reliancedigital.in/medias/Reconnect-Micro-USB-Cable-RAMCG1003-491229425-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNTc5OHxpbWFnZS9qcGVnfGltYWdlcy9oNjIvaDYyLzkxMzY3MDc2NjU5NTAuanBnfDg3YmJkZDBmMTRmZjcxZjQ0YmRiMjk2ZTMzMzJiNGVjMjYyOTcyMmNjYTg4ZjJlZTE4MTFiYTJjY2U3MzE1YTU",
+          "category":"Accessories",
+          "price":99,
+          "rating":5,
+          "name":"Reconnect RAMCG1003 1 m USB-A to Micro USB Cable, Black",
+          "description":"Shop for Rs.20,000 & above and get instant discount Up To Rs.5000,Use coupon codes YES1000 for above 20,000 ,YES2500 for above 50,000, YES5000 for above 1,00,000",
+          "cart":false
+          },
+          {
+          "id":9,
+          "url":"https://www.reliancedigital.in/medias/Reconnect-DBTM102-CA-Multimedia-Speaker-491600532-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMjY5NzJ8aW1hZ2UvanBlZ3xpbWFnZXMvaGQ0L2hmOS85NDE2OTczNDg0MDYyLmpwZ3xjZjhlYmYwMDgwMzk4YWM4NjczMmIzMGUzMWM5NjAxOTI3ZjhkOWM5ZWYxMzUxMTEyYzg0Yzg3OGViYmQzOGMx",
+          "category":"Accessories",
+          "price":499,
+          "rating":4.1,
+          "name":"Reconnect Marvel Captain America 3W Wireless Bluetooth Speaker, Water resistant, Ipx4, 3.5hrs playtime, Handsfree calling, Siri/Alexa/GoogleOk compatible, Personal speaker - DBTM102 CA",
+          "description":"Shop for Rs.20,000 & above and get instant discount Up To Rs.5000,Use coupon codes YES1000 for above 20,000 ,YES2500 for above 50,000, YES5000 for above 1,00,000",
+          "cart":false
+          },
+          {
+          "id":10,
+          "url":"https://www.reliancedigital.in/medias/Qubo-HCI01A-Smart-Cameras-491630429-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzODUxN3xpbWFnZS9qcGVnfGltYWdlcy9oMTcvaGU3LzkzMjQ3MTQwMDA0MTQuanBnfGNiZjU3NmFmOGY0ZThhY2ZiOWY2YzBmZDZmNDExZGYwNDM2OThiODZmOGM1ZWJhMTNlNzUyZmU4ZDczYWQ4MDQ",
+          "category":"Accessories",
+          "price":12990,
+          "rating":3.8,
+          "name":"Qubo Smart Indoor Camera - Home Security WiFi/Wireless Camera, 1080p FHD, Face Recognition, Alexa Built-In Speaker, Intruder Alarm, Baby Cry Monitor,2 Way Talk, Home Automation Hub",
+          "description":"Shop for Rs.20,000 & above and get instant discount Up To Rs.5000,Use coupon codes YES1000 for above 20,000 ,YES2500 for above 50,000, YES5000 for above 1,00,000",
+          "cart":false
+          },
+          {
+          "id":11,
+          "url":"https://www.reliancedigital.in/medias/Amazon-Echo-Dot-4th-Gen-Smart-Display-and-Speakers-491935954-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0Mjc0NDh8aW1hZ2UvanBlZ3xpbWFnZXMvaGZhL2gzYi85NDE1ODQzMTE5MTM0LmpwZ3xmZDcwYzVhY2Y5OWY3YjkyZmFmZWY2ZWRhNGUyZDYyZjYxMDM1NDU1MjFlNGE4MzU1YjMwZDIxM2FhMTdkZGRl",
+          "category":"Accessories",
+          "price":3999,
+          "rating":4.2,
+          "name":"All-new Amazon Echo Dot (4th Gen)",
+          "description":"Shop for Rs.20,000 & above and get instant discount Up To Rs.5000,Use coupon codes YES1000 for above 20,000 ,YES2500 for above 50,000, YES5000 for above 1,00,000",
+          "cart":false
+          },
+          {
+          "id":12,
+          "url":"https://www.reliancedigital.in/medias/Qubo-HS1CG-E-Smart-Sensors-491630432-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNzIyNjd8aW1hZ2UvanBlZ3xpbWFnZXMvaDhmL2gwMS85MzI0MTc1MjI4OTU4LmpwZ3xkMmM0NWM3ZWVkYWFlZWNjZjJiZjkzMzBlZTA4NjY1NzFjNDk0YTBmZGUwMWYxYjM2MjNiNDlmM2YwNGUwNTUy",
+          "category":"Accessories",
+          "price":2990,
+          "rating":4,
+          "name":"Qubo Smart Gas Sensor - Instant LPG, PNG Leakage Detection & Smart Alerts, ZigBee Enabled",
+          "description":"Shop for Rs.20,000 & above and get instant discount Up To Rs.5000,Use coupon codes YES1000 for above 20,000 ,YES2500 for above 50,000, YES5000 for above 1,00,000",
+          "cart":false
+          },
+          {
+          "id":13,
+          "url":"https://www.reliancedigital.in/medias/Philips-915005202401-Smart-Lights-491431682-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyOTkwMXxpbWFnZS9qcGVnfGltYWdlcy9oOTUvaGZhLzkzMTg3MDAwMjM4MzguanBnfDA4ODgyMGFkZGIyMzliMDExYTc1YzFkZmEyYWRiN2Q0Mjk3YjAyZTYwYWY4YTRiOWZjYjc1MGUwMjc0OGVhNjg",
+          "category":"Accessories",
+          "price":7500,
+          "rating":4,
+          "name":"Philips 6 Watts 915005202401 Hue Go Smart Light",
+          "description":"Shop for Rs.20,000 & above and get instant discount Up To Rs.5000,Use coupon codes YES1000 for above 20,000 ,YES2500 for above 50,000, YES5000 for above 1,00,000",
+          "cart":false
+          },
+          {
+          "id":14,
+          "url":"https://www.reliancedigital.in/medias/Mi-MJTD01SYL-Smart-Lights-492796741-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNzcwN3xpbWFnZS9qcGVnfGltYWdlcy9oN2MvaGUzLzk4MTkzNDk4NDM5OTguanBnfDg0MWViYjA5NWJmYjM4MzZiMGEyZTJmMWYyODQ4M2IxN2ZkNmMwZDg0YmIxMmU4N2FhNjk4NjMyNTY2NzQzYmY",
+          "category":"Accessories",
+          "price":2499,
+          "rating":4.2,
+          "name":"Mi Smart LED Desk Lamp 1S with Wi-Fi Enabled, Adjustable colour temperature (MJTD01SYL)",
+          "description":"Shop for Rs.20,000 & above and get instant discount Up To Rs.5000,Use coupon codes YES1000 for above 20,000 ,YES2500 for above 50,000, YES5000 for above 1,00,000",
+          "cart":false
+          },
+          {
+          "id":15,
+          "url":"https://www.reliancedigital.in/medias/Wipro-9W-NS9400-Smart-LED-Bulb-492519923-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxOTY1M3xpbWFnZS9qcGVnfGltYWdlcy9oNTUvaDAzLzk2NDYyNzc1MjU1MzQuanBnfDQ2Mjk3ZTQ3YmNjZTBmOTQyMTcyMTg4NmIzYTg2MTFkOTllOTgwNzU1MDUyMjQyNzliOGIyMTJmMzMzMzJlM2U",
+          "category":"Accessories",
+          "price":899,
+          "rating":4,
+          "name":"Wipro 9 Watts B22 Wi-Fi Smart LED Bulb with 16 Million Colours, Music Sync, Amazon Alexa and Google Assistant, NS9400",
+          "description":"Shop for Rs.20,000 & above and get instant discount Up To Rs.5000,Use coupon codes YES1000 for above 20,000 ,YES2500 for above 50,000, YES5000 for above 1,00,000.",
+          "cart":false
+          }
+          ]
+          
+          
+          
+          
+          
+          
     }
   }
