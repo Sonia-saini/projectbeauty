@@ -1101,7 +1101,7 @@
               "id": "computers1",
               "name": "HP 14s-dr3001TU Laptop (Intel Pentium Silver N6000/8 GB/256 GB SSD/UHD Graphics/Windows 11 Home/MSO/HD), 35.6 cm (14 inch)",
               "category": "computers",
-              "price": "₹26,490.00",
+              "price": 26490,
               "rating": "3",
               "url": "https://i.postimg.cc/NfCDMKSn/Hp-681-Y7-PA-ACJ-Laptop-493178767-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1126,7 +1126,7 @@
               "id": "computers2",
               "name": "HP 15s-er1501AU Standard Laptop (AMD Ryzen 3 3250U/8 GB/256 GB SSD/Radeon Graphics/Windows 11 Home/MSO/HD), 39.62 cm (15.6 Inch)",
               "category": "computers",
-              "price": "₹28,490.00",
+              "price": 28490,
               "rating": "4",
               "url": "https://i.postimg.cc/SxRnJQ31/HP-ER1501-AU-Laptop-493178397-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1151,7 +1151,7 @@
               "id": "computers3",
               "name": "Lenovo L2IN IdeaPad 3 Laptop (11th Gen Intel Core i3-1115G4 /8GB/256GB SSD/Intel UHD Graphics/Windows 11/MSO/Full HD), 39.62 cm (15.6 inch)",
               "category": "computers",
-              "price": "₹35,499.00",
+              "price": 35499,
               "rating": "4",
               "url": "https://i.postimg.cc/Jzjj1zXw/Lenovo-L2-IN-Laptops-492574725-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1175,7 +1175,7 @@
               "id": "computers4",
               "name": "Lenovo IdeaPad 3 Thin and Light Laptop (11th Gen Intel Core i3-1115G4/8 GB/512 GB SSD/Windows 11 Home/MSO/FHD), 39.62 cm (15.6 Inch)",
               "category": "computers",
-              "price": "₹37,999.00",
+              "price": 37999,
               "rating": "4",
               "url": "https://i.postimg.cc/y6kPM9VW/Lenovo-82-H802-L3-IN-Laptop-493177740-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1200,7 +1200,7 @@
               "id": "computers5",
               "name": "Asus EK522WS Laptop (11th Gen Intel Core i5-1135G7/8 GB/512 GB SSD/Iris Xe Graphics/Windows 11 Home/MSO/FHD), 35.56 cm (14 Inch)",
               "category": "computers",
-              "price": "₹48,990.00",
+              "price": 48990,
               "rating": "4",
               "url": "https://i.postimg.cc/jdCywrW5/Asus-X415-EA-EK522-WS-Laptop-493178259-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1224,7 +1224,7 @@
               "id": "computers6",
               "name": "Apple MGN63HNA MacBook Air (Apple M1 Chip/8GB/256GB SSD/macOS Big Sur/Retina), 33.78 cm (13.3 inch)",
               "category": "computers",
-              "price": "₹86,990.00",
+              "price": 86990,
               "rating": "5",
               "url": "https://i.postimg.cc/YSgCTdvM/Apple-MGN63-HNA-Laptops-491946461-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1249,7 +1249,7 @@
               "id": "computers7",
               "name": "Lenovo 64IN IdeaPad 3 Laptop(12th Gen Intel Core i5-1235U/8 GB/512 GB SSD/Intel Iris Xe Graphics/Windows 11/MSO/Full HD), 39.62 cm (15.6 inch)",
               "category": "computers",
-              "price": "₹58,099.00",
+              "price": 58099,
               "rating": "3",
               "url": "https://i.postimg.cc/c4Bx7vV4/Lenovo-82-RK0064-IN-High-End-Laptops-492850698-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1274,7 +1274,7 @@
               "id": "computers8",
               "name": "Dell Inspiron 5320 Thin and Light Laptop (12th Gen Intel Core i5-1240P/16 GB RAM/512 GB SSD/Windows 11 Home/MSO/FHD), 33.78 cm (13.3 Inch)",
               "category": "computers",
-              "price": "₹79,799.00",
+              "price": 79799,
               "rating": "4",
               "url": "https://i.postimg.cc/7PGML2fc/Dell-D560853-WIN9-S-Laptop-493177302-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1299,7 +1299,7 @@
               "id": "computers9",
               "name": "Apple MLY33HNA MacBook Air (Apple M2 Chip/8GB/256GB SSD/macOS/Liquid Retina), 34.46 cm (13.6 inch), Midnight",
               "category": "computers",
-              "price": "₹1,04,313.00",
+              "price": 104313,
               "rating": "5",
               "url": "https://i.postimg.cc/TPb56rkq/Apple-MLY33-HN-A-Laptop-492850656-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1324,7 +1324,7 @@
               "id": "computers10",
               "name": "Apple MBPMKGP3HNA MacBook Pro (Apple M1 Pro chip/16GB/512GB/macOS Monterey/Liquid Retina XDR), 35.97 cm (14 inch)",
               "category": "computers",
-              "price": "₹1,59,563.00",
+              "price": 159563,
               "rating": "5",
               "url": "https://i.postimg.cc/0Q2f2WL1/Apple-MBPMKGP3-HNA-Mac-Book-Pro-492573386-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1349,7 +1349,7 @@
               "id": "computers11",
               "name": "Acer A315-23 Aspire 3 Laptop (AMD Ryzen 3-3250U/4 GB/256 GB SSD/AMD Radeon Graphics/Windows 11/ Full HD), 39.62 cm (15.6 inch)",
               "category": "computers",
-              "price": "₹24,990.00",
+              "price": 24990,
               "rating": "3",
               "url": "https://i.postimg.cc/ZRWhvcdX/Acer-15-Aspire3-R3-Laptop-492849812-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1374,7 +1374,7 @@
               "id": "computers12",
               "name": "Acer One 14 Laptop (AMD Ryzen 5 3500U/16 GB/512 GB SSD/Radeon Graphics/Windows 11 Home/HD/MSO), 35.56 cm (14 Inch)",
               "category": "computers",
-              "price": "₹38,490.00",
+              "price": 38490,
               "rating": "3",
               "url": "https://i.postimg.cc/v8W3Gn1z/Acer-UN-431-SI-155-Laptop-493178293-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1399,7 +1399,7 @@
               "id": "computers13",
               "name": "Microsoft Surface Laptop 4 Thin & Light Laptop (11th Gen Intel Core i5-1135G7/16 GB/512 GB SSD/ Intel Iris Xe Graphics/Windows 11 Home), 34.29 cm (13.5 Inch)",
               "category": "computers",
-              "price": "₹1,43,999.00",
+              "price": 143999,
               "rating": "5",
               "url": "https://i.postimg.cc/h42hQS5d/Microsoft-5-AI-00121-Laptop-492850586-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1422,7 +1422,7 @@
               "id": "computers14",
               "name": "New Microsoft Surface Pro 9 Intel 12 Gen Evo i7/16GB/512GB/13 inch/GT/W11(QIX-00031) Graphite",
               "category": "computers",
-              "price": "₹1,92,990.00",
+              "price": 192990,
               "rating": "5",
               "url": "https://i.postimg.cc/sgxVF7j6/Microsoft-QIX-00031-Laptop-493179023-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1447,7 +1447,7 @@
               "id": "computers15",
               "name": "Asus K8035WS ROG Zephyrus M16 Gaming Laptop (12th Gen-Intel core i7-12700H/16GB/1TB SSD/6GB Nvidia Geforce RTX 3060/Windows 11/MSO/WQXGA), 40.64 cm (16 inch)",
               "category": "computers",
-              "price": "₹1,79,990.00",
+              "price": 179990,
               "rating": "5",
               "url": "https://i.postimg.cc/QCSJTRWq/Asus-GU603-ZM-K8035-WS-LAPTOP-492849897-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1474,7 +1474,7 @@
               "id": "camaras1",
               "name": "Canon EOS 1500D DSLR Camera with 18-55 mm and 55-250 mm Dual Lens Kit",
               "category": "camaras",
-              "price": "₹41,999.00",
+              "price": 41999,
               "rating": "4",
               "url": "https://i.postimg.cc/jdBBdFy7/Canon-EOS-1500-D-DSLR-Camera-with-18-55-mm-and-55-250-mm-Dual-Lens-Kit-491362609-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1499,7 +1499,7 @@
               "id": "camaras2",
               "name": "Nikon D3500 DSLR Camera with AF-P 18-55 mm + AF-P 70-300 mm VR Kit",
               "category": "camaras",
-              "price": "₹48,990.00",
+              "price": 48990,
               "rating": "4",
               "url": "https://i.postimg.cc/7Z89G8hS/Nikon-D3500-DSLR-Camera-491431009-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1523,7 +1523,7 @@
               "id": "camaras3",
               "name": "Nikon D5600 DSLR Camera with AF-P 18-55 mm + AF-P 70-300 mm VR Kit",
               "category": "camaras",
-              "price": "₹61,990.00",
+              "price": 61990,
               "rating": "5",
               "url": "https://i.postimg.cc/ZnTrJ45L/Nikon-D5600-20-DZ-491297413-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1548,7 +1548,7 @@
               "id": "camaras4",
               "name": "Nikon D7500 DSLR Camera with AF-S DX NIKKOR 18-140mm f/3.5-5.6G ED VR Lens",
               "category": "camaras",
-              "price": "₹84,990.00",
+              "price": 84990,
               "rating": "4",
               "url": "https://i.postimg.cc/Y0ZyXd7g/Nikon-VBK510-UN-DSLR-Cameras-491431245-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1573,7 +1573,7 @@
               "id": "camaras5",
               "name": "Insta 360 One X2 Action Camera with FlowState Stabilization, Black",
               "category": "camaras",
-              "price": "₹39,999.00",
+              "price": 39999,
               "rating": "5",
               "url": "https://i.postimg.cc/mks0RdJs/insta360-0ne-x2-actioncamera-492913003-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1597,7 +1597,7 @@
               "id": "camaras6",
               "name": "Canon EOS 1500D DSLR Camera with 18-55 mm Lens Kit",
               "category": "camaras",
-              "price": "₹38,899.00",
+              "price": 38899,
               "rating": "3",
               "url": "https://i.postimg.cc/DwxJXHPx/Canon-EOS-1500-D-DSLR-491362608-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1615,7 +1615,7 @@
               "id": "camaras7",
               "name": "Nikon D850 DSLR Camera with 24-120 mm Lens Kit",
               "category": "camaras",
-              "price": "₹2,62,992.00",
+              "price": 262992,
               "rating": "5",
               "url": "https://i.postimg.cc/YS46qtB6/Nikon-D850-DSLR-Cameras-491362271-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1637,7 +1637,7 @@
               "id": "camaras8",
               "name": "GoPro Hero10 23 MP Action Camera, waterproof camera with 1080p Live Streaming",
               "category": "camaras",
-              "price": "₹51,999.00",
+              "price": 51999,
               "rating": "4",
               "url": "https://i.postimg.cc/XYWF69s0/Go-Pro-HERO10-Black-Action-camera-492571642-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1661,7 +1661,7 @@
               "id": "camaras9",
               "name": "Sony Alpha ILCE 6000Y 24.3 MP Mirrorless Digital SLR Camera with 16-50 mm and 55-210 mm Zoom Lenses (APS-C Sensor, Fast Auto Focus, Eye AF) - Black",
               "category": "camaras",
-              "price": "₹53,990.00",
+              "price": 53990,
               "rating": "5",
               "url": "https://i.postimg.cc/zG9f1NzH/Sony-Alpha-6000-Y-DSLR-491186291-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1685,7 +1685,7 @@
               "id": "camaras10",
               "name": "Canon EOS 200D II DSLR Camera with 18-55 mm Lens Kit",
               "category": "camaras",
-              "price": "₹58,990.00",
+              "price": 58990,
               "rating": "4",
               "url": "https://i.postimg.cc/C5PcRm5X/Canon-EOS-200-D-II-DSLR-Camera-491431412-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1710,7 +1710,7 @@
               "id": "camaras11",
               "name": "Nikon Z FC Mirrorless Camera with 16 to 50 mm Nikkor Z DX Lens Kit",
               "category": "camaras",
-              "price": "₹88,999.00",
+              "price": 88999,
               "rating": "4",
               "url": "https://i.postimg.cc/zBD6tdL2/Nikon-Z-fc-Mirrorless-Dslr-492391586-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1734,7 +1734,7 @@
               "id": "camaras12",
               "name": "Sony Alpha ILCE-7M3 Full-Frame 24.2MP Mirrorless Digital SLR Camera Body (4K Full Frame, Real-Time Eye Auto Focus, 4K Vlogging Camera, Tiltable LCD, Low Light Camera), Black",
               "category": "camaras",
-              "price": "₹1,45,990.00",
+              "price": 145990,
               "rating": "5",
               "url": "https://i.postimg.cc/66McfWfX/Sony-Alpha-7-M3-DSLR-491362603-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1759,7 +1759,7 @@
               "id": "camaras13",
               "name": "GoPro Hero 11 Action Camera with 27 MP + 5.3K60 + 4K120 Resolution Video, Black",
               "category": "camaras",
-              "price": "₹51,490.00",
+              "price": 51490,
               "rating": "4",
               "url": "https://i.postimg.cc/dQgbjjBv/Gopro-Hero-11-Action-Camera-493179156-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1780,7 +1780,7 @@
               "id": "camaras14",
               "name": "Olympus Mirrorless OM-D E-M1X Camera Body, Black",
               "category": "camaras",
-              "price": "₹1,34,990.00",
+              "price": 134990,
               "rating": "4",
               "url": "https://i.postimg.cc/76nNJDmf/Olympus-EM1-XINBLK-CAMERA-492571618-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -1804,7 +1804,7 @@
               "id": "camaras15",
               "name": "Sony Alpha ILCE 6400M 24.2 MP Mirrorless Digital SLR Camera with 18-135 mm Power Zoom Lens (APS-C Sensor, Fast Auto Focus, Real-time Eye AF, Real-time Tracking, 4K Vlogging Camera & Tiltable screen)",
               "category": "camaras",
-              "price": "₹1,02,990.00",
+              "price": 102990,
               "rating": "5",
               "url": "https://i.postimg.cc/kgjHpNmT/Sony-Alpha-6400-M-DSLR-491431250-i-1-1200-Wx1200-H.jpg",
               "description": [
@@ -2531,93 +2531,93 @@
       "juicers" : [
           {
               "id":279,
-              "img":"https://www.reliancedigital.in/medias/Usha-4003133450N-Juicer-Mixer-Grinder-491581703-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2NjcyfGltYWdlL2pwZWd8aW1hZ2VzL2gxYi9oY2MvOTIxNjQ3MzAwNjExMC5qcGd8MzkwN2ZhZWE4MmJkZjI5MDJiMWMyYWI3MDA4NGEzOTA2NWM0YTFiODBkN2U5ODc1ODU0N2Q5MjAxNmY5MDY4OA",
+              "url":"https://www.reliancedigital.in/medias/Usha-4003133450N-Juicer-Mixer-Grinder-491581703-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2NjcyfGltYWdlL2pwZWd8aW1hZ2VzL2gxYi9oY2MvOTIxNjQ3MzAwNjExMC5qcGd8MzkwN2ZhZWE4MmJkZjI5MDJiMWMyYWI3MDA4NGEzOTA2NWM0YTFiODBkN2U5ODc1ODU0N2Q5MjAxNmY5MDY4OA",
               "comp":"Usha",
-              "desc":"JMG 3345 450 Watts Juicer Mixer Grinder",
+              "name":"JMG 3345 450 Watts Juicer Mixer Grinder",
               "price": 3399
             },
             {
               "id":280,
-              "img":"https://www.reliancedigital.in/medias/Usha-CPJ-382F-BLACK-W-Juicer-Mixer-Grinders-491581364-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNjExMnxpbWFnZS9qcGVnfGltYWdlcy9oZTQvaDM4LzkyOTI2Mzk5MjgzNTAuanBnfDg4Mzk4NmJjZTQ2NTZlYTBmN2NjZDNjYTYxMmI1ZjI5YTFjZWQ5Yzc3YzljZGZkOGY4NmViZWJmMGYxMmE2MTk",
+              "url":"https://www.reliancedigital.in/medias/Usha-CPJ-382F-BLACK-W-Juicer-Mixer-Grinders-491581364-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNjExMnxpbWFnZS9qcGVnfGltYWdlcy9oZTQvaDM4LzkyOTI2Mzk5MjgzNTAuanBnfDg4Mzk4NmJjZTQ2NTZlYTBmN2NjZDNjYTYxMmI1ZjI5YTFjZWQ5Yzc3YzljZGZkOGY4NmViZWJmMGYxMmE2MTk",
               "comp":"Usha",
-              "desc":"JMG 3345 450 Watts Juicer Mixer Grinder",
+              "name":"JMG 3345 450 Watts Juicer Mixer Grinder",
               "price": 10999
             },
             {
               "id":281,
-              "img":"https://www.reliancedigital.in/medias/Usha-JM-500XJ3-Juicer-Mixer-Grinder-491892026-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0OTIwMnxpbWFnZS9qcGVnfGltYWdlcy9oZWYvaDMzLzk2MzU1MzQ1MzY3MzQuanBnfDZiMGEzY2MwN2FlY2RiNmQ0ZjYyYmJlYWM4MGE5YWY4MjljNDIzMTk1MTNkZTAyODI3NzEwZTRjOGUxNWViNTc",
+              "url":"https://www.reliancedigital.in/medias/Usha-JM-500XJ3-Juicer-Mixer-Grinder-491892026-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0OTIwMnxpbWFnZS9qcGVnfGltYWdlcy9oZWYvaDMzLzk2MzU1MzQ1MzY3MzQuanBnfDZiMGEzY2MwN2FlY2RiNmQ0ZjYyYmJlYWM4MGE5YWY4MjljNDIzMTk1MTNkZTAyODI3NzEwZTRjOGUxNWViNTc",
               "comp":"Usha",
-              "desc":"JMG 3345 450 Watts Juicer Mixer Grinder",
+              "name":"JMG 3345 450 Watts Juicer Mixer Grinder",
               "price": 4499
             },
             {
               "id":282,
-              "img":"https://www.reliancedigital.in/medias/Usha-CPJ-382S-BLKandWHITE-Juicer-Mixer-Grinders-491581389-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMTUzNTV8aW1hZ2UvanBlZ3xpbWFnZXMvaGYwL2g3Ny85MjkyNjM3NzY1NjYyLmpwZ3xiN2YzZWE0MDBkYjRhZjQxZjE1MmNjOTNiYzVhMWE3MGExMWJiNWM1YTcxYTFmNTA2NmQ1ZWY1OWUzOTdmNDBh",
+              "url":"https://www.reliancedigital.in/medias/Usha-CPJ-382S-BLKandWHITE-Juicer-Mixer-Grinders-491581389-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMTUzNTV8aW1hZ2UvanBlZ3xpbWFnZXMvaGYwL2g3Ny85MjkyNjM3NzY1NjYyLmpwZ3xiN2YzZWE0MDBkYjRhZjQxZjE1MmNjOTNiYzVhMWE3MGExMWJiNWM1YTcxYTFmNTA2NmQ1ZWY1OWUzOTdmNDBh",
               "comp":"Usha",
-              "desc":"JMG 3345 450 Watts Juicer Mixer Grinder",
+              "name":"JMG 3345 450 Watts Juicer Mixer Grinder",
               "price": 7499
             },
             {
               "id":283,
-              "img":"https://www.reliancedigital.in/medias/Maharaja-Whiteline-Odacio-DLX-Juicer-Mixer-Grinders-492911108-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzODc5OXxpbWFnZS9qcGVnfGltYWdlcy9oYTkvaGJmLzk4NzM4OTI5OTkxOTguanBnfDAxNGIxNTMwYTYyNTRiZjk5NTdiN2NlZTM2MGQzMzBjYzZlMWQxZjFmMmUwNGE0YTI4M2IxMGMwYzAyOGExYjk",
+              "url":"https://www.reliancedigital.in/medias/Maharaja-Whiteline-Odacio-DLX-Juicer-Mixer-Grinders-492911108-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzODc5OXxpbWFnZS9qcGVnfGltYWdlcy9oYTkvaGJmLzk4NzM4OTI5OTkxOTguanBnfDAxNGIxNTMwYTYyNTRiZjk5NTdiN2NlZTM2MGQzMzBjYzZlMWQxZjFmMmUwNGE0YTI4M2IxMGMwYzAyOGExYjk",
               "comp":"Usha",
-              "desc":"JMG 3345 450 Watts Juicer Mixer Grinder",
+              "name":"JMG 3345 450 Watts Juicer Mixer Grinder",
               "price": 3200
             },
             {
               "id":284,
-              "img":"https://www.reliancedigital.in/medias/Maharaja-JX-100-Juicer-Mixer-Grinder-491959200-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NzUzNHxpbWFnZS9qcGVnfGltYWdlcy9oY2MvaDliLzk4MDcwOTk3MjM4MDYuanBnfGZmNDMyYjY1YTA2MDFlNzEwMjAyNzZjMjdlNjE3ZDk0YjM1ZTAyYzY0YjM3ZDE3ZmM0NmM0MjJhNmI2YzI3YzM",
+              "url":"https://www.reliancedigital.in/medias/Maharaja-JX-100-Juicer-Mixer-Grinder-491959200-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NzUzNHxpbWFnZS9qcGVnfGltYWdlcy9oY2MvaDliLzk4MDcwOTk3MjM4MDYuanBnfGZmNDMyYjY1YTA2MDFlNzEwMjAyNzZjMjdlNjE3ZDk0YjM1ZTAyYzY0YjM3ZDE3ZmM0NmM0MjJhNmI2YzI3YzM",
               "comp":"maharaja",
-              "desc":"JMG 3345 450 Watts Juicer Mixer Grinder",
+              "name":"JMG 3345 450 Watts Juicer Mixer Grinder",
               "price": 2599
             },
             {
               "id":285,
-              "img":"https://www.reliancedigital.in/medias/Usha-4003133450N-Juicer-Mixer-Grinder-491581703-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2NjcyfGltYWdlL2pwZWd8aW1hZ2VzL2gxYi9oY2MvOTIxNjQ3MzAwNjExMC5qcGd8MzkwN2ZhZWE4MmJkZjI5MDJiMWMyYWI3MDA4NGEzOTA2NWM0YTFiODBkN2U5ODc1ODU0N2Q5MjAxNmY5MDY4OA",
+              "url":"https://www.reliancedigital.in/medias/Usha-4003133450N-Juicer-Mixer-Grinder-491581703-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2NjcyfGltYWdlL2pwZWd8aW1hZ2VzL2gxYi9oY2MvOTIxNjQ3MzAwNjExMC5qcGd8MzkwN2ZhZWE4MmJkZjI5MDJiMWMyYWI3MDA4NGEzOTA2NWM0YTFiODBkN2U5ODc1ODU0N2Q5MjAxNmY5MDY4OA",
               "comp":"maharaja",
-              "desc":"JMG 3345 450 Watts Juicer Mixer Grinder",
+              "name":"JMG 3345 450 Watts Juicer Mixer Grinder",
               "price": 3399
             },
             {
               "id":286,
-              "img":"https://www.reliancedigital.in/medias/Wonderchef-Nutri-Blend-Juicer-Mixer-Grinders-491472940-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDg5OHxpbWFnZS9qcGVnfGltYWdlcy9oNDAvaGM0Lzk0NjI0NjE0MzE4MzguanBnfDhlMjY1ZjlmOGFjMzA1YmRmMzI2N2Y2NjQwMzFjMTkwMzVkNjQ5NWRmMDBmNDU0ZjZkNGM0NzdiNGQ2NzVjNTA",
+              "url":"https://www.reliancedigital.in/medias/Wonderchef-Nutri-Blend-Juicer-Mixer-Grinders-491472940-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDg5OHxpbWFnZS9qcGVnfGltYWdlcy9oNDAvaGM0Lzk0NjI0NjE0MzE4MzguanBnfDhlMjY1ZjlmOGFjMzA1YmRmMzI2N2Y2NjQwMzFjMTkwMzVkNjQ5NWRmMDBmNDU0ZjZkNGM0NzdiNGQ2NzVjNTA",
               "comp":"maharaja",
-              "desc":"JMG 3345 450 Watts Juicer Mixer Grinder",
+              "name":"JMG 3345 450 Watts Juicer Mixer Grinder",
               "price": 3499
             },
             {
               "id":287,
-              "img":"https://www.reliancedigital.in/medias/Wonderchef-Nutri-Blend-Juicer-Mixer-Grinder-491362280-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNDA4NXxpbWFnZS9qcGVnfGltYWdlcy9oYmQvaGUwLzk4NzM5ODQ4MTUxMzQuanBnfDJlYzRmYWFlZTJhODgwZjFkMDA3NWViYTcxMzQ1OTJjYzQ2OWYzMGY0NDE3OGMyMTFhNjE1YmE1YzFlZWM2ZDU",
+              "url":"https://www.reliancedigital.in/medias/Wonderchef-Nutri-Blend-Juicer-Mixer-Grinder-491362280-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNDA4NXxpbWFnZS9qcGVnfGltYWdlcy9oYmQvaGUwLzk4NzM5ODQ4MTUxMzQuanBnfDJlYzRmYWFlZTJhODgwZjFkMDA3NWViYTcxMzQ1OTJjYzQ2OWYzMGY0NDE3OGMyMTFhNjE1YmE1YzFlZWM2ZDU",
               "comp":"maharaja",
-              "desc":"JMG 3345 450 Watts Juicer Mixer Grinder",
+              "name":"JMG 3345 450 Watts Juicer Mixer Grinder",
               "price": 2999
             },
             {
               "id":288,
-              "img":"https://www.reliancedigital.in/medias/Maharaja-JX-100-Juicer-Mixer-Grinder-491959200-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NzUzNHxpbWFnZS9qcGVnfGltYWdlcy9oY2MvaDliLzk4MDcwOTk3MjM4MDYuanBnfGZmNDMyYjY1YTA2MDFlNzEwMjAyNzZjMjdlNjE3ZDk0YjM1ZTAyYzY0YjM3ZDE3ZmM0NmM0MjJhNmI2YzI3YzM",
+              "url":"https://www.reliancedigital.in/medias/Maharaja-JX-100-Juicer-Mixer-Grinder-491959200-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NzUzNHxpbWFnZS9qcGVnfGltYWdlcy9oY2MvaDliLzk4MDcwOTk3MjM4MDYuanBnfGZmNDMyYjY1YTA2MDFlNzEwMjAyNzZjMjdlNjE3ZDk0YjM1ZTAyYzY0YjM3ZDE3ZmM0NmM0MjJhNmI2YzI3YzM",
               "comp":"maharaja",
-              "desc":"JMG 3345 450 Watts Juicer Mixer Grinder",
+              "name":"JMG 3345 450 Watts Juicer Mixer Grinder",
               "price": 2599
             },
             {
               "id":289,
-              "img":"https://www.reliancedigital.in/medias/Bajaj-JEX16-JUICER-492284015-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0ODk1NHxpbWFnZS9qcGVnfGltYWdlcy9oMzAvaGRhLzk3Mzk3Nzg2MjE0NzAuanBnfDYzMjIwMzc0N2EyZjM0YmFkZTE0ZWFjN2NlMTNkMTFjYjRiNzE4NDdjMWI5YWI5NjI1MjE0YjUxY2MyZjBiNzA",
+              "url":"https://www.reliancedigital.in/medias/Bajaj-JEX16-JUICER-492284015-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0ODk1NHxpbWFnZS9qcGVnfGltYWdlcy9oMzAvaGRhLzk3Mzk3Nzg2MjE0NzAuanBnfDYzMjIwMzc0N2EyZjM0YmFkZTE0ZWFjN2NlMTNkMTFjYjRiNzE4NDdjMWI5YWI5NjI1MjE0YjUxY2MyZjBiNzA",
               "comp":"bajaj",
-              "desc":"Freshsip DLX 500-Watts Juicer Mixer Grinder",
+              "name":"Freshsip DLX 500-Watts Juicer Mixer Grinder",
               "price": 5799
             },
             {
               "id":290,
-              "img":"https://www.reliancedigital.in/medias/Bajaj-410547-JUICER-492573227-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzMzUwNHxpbWFnZS9qcGVnfGltYWdlcy9oNWIvaGQ2Lzk3MzU2NDExMzcxODIuanBnfDhlOWUyYTZmY2FlZTY3NDZlYTM3NzhjNzJmZGQxNTUyYjk2MmVlNDNhY2Y5MGNiOTQ3Mjc0MzIzNTM3MGZmZGI",
+              "url":"https://www.reliancedigital.in/medias/Bajaj-410547-JUICER-492573227-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzMzUwNHxpbWFnZS9qcGVnfGltYWdlcy9oNWIvaGQ2Lzk3MzU2NDExMzcxODIuanBnfDhlOWUyYTZmY2FlZTY3NDZlYTM3NzhjNzJmZGQxNTUyYjk2MmVlNDNhY2Y5MGNiOTQ3Mjc0MzIzNTM3MGZmZGI",
               "comp":"bajaj",
-              "desc":"Freshsip DLX 500-Watts Juicer Mixer Grinder",
+              "name":"Freshsip DLX 500-Watts Juicer Mixer Grinder",
               "price": 3299
             },
             {
               "id":291,
-              "img":"https://www.reliancedigital.in/medias/Bajaj-410024-Juicer-Mixer-Grinders-491281342-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NTQ0NnxpbWFnZS9qcGVnfGltYWdlcy9oNDUvaDFlLzg4OTYxNzMxNzg5MTAuanBnfDA0N2I4MDQ4NTQ2ZWIxNDZlOTU3ZThkMGI3ZjgxNzc0MzdjMmIyYjg0MjAyMjEzYjE2NTc3YjgzMzcyYzY1OTY",
+              "url":"https://www.reliancedigital.in/medias/Bajaj-410024-Juicer-Mixer-Grinders-491281342-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NTQ0NnxpbWFnZS9qcGVnfGltYWdlcy9oNDUvaDFlLzg4OTYxNzMxNzg5MTAuanBnfDA0N2I4MDQ4NTQ2ZWIxNDZlOTU3ZThkMGI3ZjgxNzc0MzdjMmIyYjg0MjAyMjEzYjE2NTc3YjgzMzcyYzY1OTY",
               "comp":"bajaj",
-              "desc":"Freshsip DLX 500-Watts Juicer Mixer Grinder",
+              "name":"Freshsip DLX 500-Watts Juicer Mixer Grinder",
               "price": 2699
             }
       ],
