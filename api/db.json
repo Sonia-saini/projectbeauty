@@ -2845,7 +2845,10 @@
             }
       ],
    
-       "cart":[]   
+       "cart":[] ,
+        register:[],
+        users:[],
+        userScore:[]
           
          
           
