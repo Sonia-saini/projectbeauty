@@ -2846,11 +2846,10 @@
       ],
    
        "cart":[] ,
-        register:[],
-        users:[],
-        userScore:[]
-          
-         
-          
-    }
+
+              
+    },
+            "register":[],
+        "users":[],
+        "userScore":[]
   }
